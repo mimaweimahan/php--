@@ -1,0 +1,4 @@
+[2022-07-10T01:23:00,001][INFO ][o.e.x.m.MlDailyMaintenanceService] [node-1] triggering scheduled [ML] maintenance tasks
+[2022-07-10T01:23:00,006][INFO ][o.e.x.m.a.TransportDeleteExpiredDataAction] [node-1] Deleting expired data
+[2022-07-10T01:23:00,039][INFO ][o.e.x.m.a.TransportDeleteExpiredDataAction] [node-1] Completed deletion of expired data
+[2022-07-10T01:23:00,040][INFO ][o.e.x.m.MlDailyMaintenanceService] [node-1] Successfully completed [ML] maintenance tasks

@@ -1,0 +1,1456 @@
+2019-12-13 17:18:40 pid:4292 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-01-09 17:18:31 pid:4294 Workerman[start.php] stopping ...
+2020-01-10 11:13:41 pid:1967 Workerman[start.php] start in DEBUG mode
+2020-01-10 11:17:22 pid:1967 Workerman[start.php] stopping ...
+2020-01-10 11:17:22 pid:1967 Workerman[start.php] has been stopped
+2020-01-10 11:26:55 pid:2425 Workerman[start.php] start in DAEMON mode
+2020-01-10 16:50:37 pid:2427 Workerman[start.php] stopping ...
+2020-03-03 10:45:55 pid:5063 Workerman[public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-03 11:04:23 pid:7026 Workerman[start.php] start in DAEMON mode
+2020-03-03 11:04:23 pid:7026 Workerman[start.php] already running
+2020-03-03 11:10:59 pid:8333 Workerman[start.php] stop 
+2020-03-03 11:10:59 pid:8333 Workerman[start.php] is stoping ...
+2020-03-03 11:10:59 pid:5065 Workerman[start.php] stopping ...
+2020-03-03 11:10:59 pid:5065 Workerman[start.php] has been stopped
+2020-03-03 11:10:59 pid:8333 Workerman[start.php] stop success
+2020-03-03 11:11:06 pid:8360 Workerman[start.php] start in DAEMON mode
+2020-03-10 18:09:41 pid:2390 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-10 18:26:42 pid:2084 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-10 19:29:50 pid:2387 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-10 19:38:29 pid:2509 Workerman[start.php] start in DAEMON mode
+2020-03-10 19:38:29 pid:2509 Workerman[start.php] already running
+2020-03-10 20:13:33 pid:2053 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-23 12:46:05 pid:3025 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-24 16:05:07 pid:29137 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-24 20:46:15 pid:4194 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-24 21:35:26 pid:4196 Workerman[start.php] stopping ...
+2020-03-24 21:38:15 pid:3344 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-24 21:48:34 pid:3424 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-24 21:48:34 pid:3424 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] already running
+2020-03-24 21:48:39 pid:3441 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] stop 
+2020-03-24 21:48:39 pid:3441 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] is stoping ...
+2020-03-24 21:48:44 pid:3441 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] stop fail
+2020-03-24 21:52:44 pid:3401 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-24 22:06:21 pid:3403 Workerman[start.php] stopping ...
+2020-03-24 22:18:43 pid:3354 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-24 22:33:10 pid:3356 Workerman[start.php] stopping ...
+2020-03-24 22:44:28 pid:4882 Workerman[/www/wwwroot/bf/public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-29 06:57:54 pid:21099 Workerman[start.php] start in DAEMON mode
+2020-03-29 07:02:25 pid:8736 Workerman[start.php] start in DAEMON mode
+2020-03-29 07:02:25 pid:8736 Workerman[start.php] already running
+2020-03-29 07:17:02 pid:3570 Workerman[start.php] start in DAEMON mode
+2020-03-29 10:09:28 pid:23572 Workerman[start.php] start in DAEMON mode
+2020-03-29 10:58:16 pid:5566 Workerman[/www/wwwroot/129.226.121.225/public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-29 11:02:43 pid:6227 Workerman[/www/wwwroot/129.226.121.225/public/vendor/webmsgsender/start.php] start in DAEMON mode
+2020-03-29 11:02:43 pid:6227 Workerman[/www/wwwroot/129.226.121.225/public/vendor/webmsgsender/start.php] already running
+2020-03-30 10:27:53 pid:19998 Workerman[start.php] start in DAEMON mode
+2020-03-30 16:02:34 pid:3904 Workerman[start.php] start in DAEMON mode
+2020-03-30 18:14:41 pid:4006 Workerman[start.php] start in DAEMON mode
+2020-04-01 17:32:30 pid:7810 Workerman[start.php] start in DEBUG mode
+2020-04-01 17:32:53 pid:7922 Workerman[start.php] start in DEBUG mode
+2020-04-01 17:32:53 pid:7922 Workerman[start.php] already running
+2020-04-01 17:44:29 pid:11230 Workerman[start.php] stop 
+2020-04-01 17:44:29 pid:11230 Workerman[start.php] is stoping ...
+2020-04-01 17:44:29 pid:7810 Workerman[start.php] stopping ...
+2020-04-01 17:44:29 pid:7810 Workerman[start.php] has been stopped
+2020-04-01 17:44:29 pid:11230 Workerman[start.php] stop success
+2020-04-01 17:44:42 pid:11291 Workerman[start.php] start in DEBUG mode
+2020-04-01 17:45:03 pid:11291 Workerman[start.php] stopping ...
+2020-04-01 17:45:03 pid:11291 Workerman[start.php] has been stopped
+2020-04-01 17:45:05 pid:11404 Workerman[start.php] start in DAEMON mode
+2020-05-25 22:43:02 pid:2814 Workerman[start.php] start in DEBUG mode
+2020-05-29 11:48:13 pid:2814 Workerman[start.php] stopping ...
+2020-05-29 11:48:13 pid:2814 Workerman[start.php] has been stopped
+2020-05-29 11:54:05 pid:2648 Workerman[start.php] start in DEBUG mode
+2020-06-01 01:30:03 pid:37730 Workerman[start.php] start in DEBUG mode
+2020-06-01 01:30:03 pid:37730 Workerman[start.php] already running
+2020-06-01 18:15:06 pid:2648 Workerman[start.php] stopping ...
+2020-06-01 18:18:17 pid:2641 Workerman[start.php] start in DEBUG mode
+2020-06-05 16:53:12 pid:26264 Workerman[start.php] start in DEBUG mode
+2020-06-05 16:53:12 pid:26264 Workerman[start.php] already running
+2020-06-07 17:51:43 pid:2641 Workerman[start.php] stopping ...
+2020-06-07 17:53:34 pid:2566 Workerman[start.php] start in DEBUG mode
+2020-06-08 01:30:02 pid:26434 Workerman[start.php] start in DEBUG mode
+2020-06-08 01:30:02 pid:26434 Workerman[start.php] already running
+2020-06-08 05:59:28 pid:2566 Workerman[start.php] stopping ...
+2020-06-08 05:59:28 pid:2566 Workerman[start.php] has been stopped
+2020-06-08 06:55:13 pid:3193 Workerman[start.php] start in DEBUG mode
+2020-06-12 12:10:50 pid:3193 Workerman[start.php] stopping ...
+2020-06-12 12:15:04 pid:2747 Workerman[start.php] start in DEBUG mode
+2020-06-13 15:40:31 pid:2747 Workerman[start.php] stopping ...
+2020-06-13 15:42:02 pid:2566 Workerman[start.php] start in DEBUG mode
+2020-06-15 01:30:02 pid:56180 Workerman[start.php] start in DEBUG mode
+2020-06-15 01:30:02 pid:56180 Workerman[start.php] already running
+2020-06-15 09:53:28 pid:2566 Workerman[start.php] stopping ...
+2020-06-15 09:57:39 pid:2625 Workerman[start.php] start in DEBUG mode
+2020-06-19 17:22:33 pid:2625 Workerman[start.php] stopping ...
+2020-06-19 17:24:04 pid:2625 Workerman[start.php] start in DEBUG mode
+2020-06-22 01:30:02 pid:58396 Workerman[start.php] start in DEBUG mode
+2020-06-22 01:30:02 pid:58396 Workerman[start.php] already running
+2020-06-22 09:28:56 pid:54338 Workerman[start.php] start in DEBUG mode
+2020-06-22 09:28:56 pid:54338 Workerman[start.php] already running
+2020-06-22 11:47:28 pid:2625 Workerman[start.php] stopping ...
+2020-06-22 12:11:15 pid:3201 Workerman[start.php] start in DEBUG mode
+2020-06-24 13:52:52 pid:3046 Workerman[start.php] start in DEBUG mode
+2020-06-26 12:08:02 pid:2574 Workerman[start.php] start in DEBUG mode
+2020-06-29 01:30:01 pid:30546 Workerman[start.php] start in DEBUG mode
+2020-06-29 01:30:01 pid:30546 Workerman[start.php] already running
+2020-06-29 14:39:32 pid:2574 Workerman[start.php] stopping ...
+2020-06-29 14:39:32 pid:2574 worker[PHPSocketIO:2575] exit with status 4991
+2020-06-29 14:39:32 pid:2574 Workerman[start.php] has been stopped
+2020-06-29 14:42:04 pid:2582 Workerman[start.php] start in DEBUG mode
+2020-06-30 14:40:51 pid:2582 Workerman[start.php] stopping ...
+2020-06-30 14:40:51 pid:2582 Workerman[start.php] has been stopped
+2020-06-30 14:44:11 pid:3033 Workerman[start.php] start in DEBUG mode
+2020-07-06 01:30:02 pid:5472 Workerman[start.php] start in DEBUG mode
+2020-07-06 01:30:02 pid:5472 Workerman[start.php] already running
+2020-07-06 13:21:18 pid:3033 Workerman[start.php] stopping ...
+2020-07-06 13:23:06 pid:2563 Workerman[start.php] start in DEBUG mode
+2020-07-07 01:31:28 pid:2563 Workerman[start.php] stopping ...
+2020-07-07 02:05:24 pid:3031 Workerman[start.php] start in DEBUG mode
+2020-07-07 13:16:17 pid:3011 Workerman[start.php] start in DEBUG mode
+2020-07-08 16:29:54 pid:3011 Workerman[start.php] stopping ...
+2020-07-08 16:29:54 pid:3011 worker[PHPSocketIO:3012] exit with status 4991
+2020-07-08 16:29:54 pid:3011 Workerman[start.php] has been stopped
+2020-07-08 16:31:59 pid:3029 Workerman[start.php] start in DEBUG mode
+2020-07-12 06:15:49 pid:3029 Workerman[start.php] stopping ...
+2020-07-12 06:15:49 pid:3029 worker[PHPSocketIO:3040] exit with status 4991
+2020-07-12 06:15:49 pid:3029 Workerman[start.php] has been stopped
+2020-07-12 06:20:30 pid:2879 Workerman[start.php] start in DEBUG mode
+2020-07-13 01:30:03 pid:29688 Workerman[start.php] start in DEBUG mode
+2020-07-13 01:30:03 pid:29688 Workerman[start.php] already running
+2020-07-13 13:38:07 pid:2879 Workerman[start.php] stopping ...
+2020-07-13 13:43:59 pid:3881 Workerman[start.php] start in DEBUG mode
+2020-07-16 18:59:37 pid:3886 worker[3886] remains 14 connection(s)
+2020-07-16 18:59:37 pid:3881 Workerman[start.php] stopping ...
+2020-07-16 18:59:38 pid:3886 worker[3886] remains 7 connection(s)
+2020-07-16 18:59:38 pid:3886 worker[3886] remains 0 connection(s)
+2020-07-16 18:59:38 pid:3881 Workerman[start.php] has been stopped
+2020-07-16 19:09:22 pid:2570 Workerman[start.php] start in DEBUG mode
+2020-07-19 20:34:44 pid:2570 Workerman[start.php] stopping ...
+2020-07-19 20:34:44 pid:2570 Workerman[start.php] has been stopped
+2020-07-19 20:36:57 pid:2580 Workerman[start.php] start in DEBUG mode
+2020-07-19 20:40:20 pid:2580 Workerman[start.php] stopping ...
+2020-07-19 20:42:58 pid:2605 Workerman[start.php] start in DEBUG mode
+2020-07-19 20:42:58 pid:2605 Workerman[start.php] already running
+2020-07-19 20:50:04 pid:2622 Workerman[start.php] start in DEBUG mode
+2020-07-19 20:55:24 pid:2622 Workerman[start.php] stopping ...
+2020-07-19 21:06:38 pid:2969 Workerman[start.php] start in DEBUG mode
+2020-07-19 21:09:34 pid:2969 Workerman[start.php] stopping ...
+2020-07-19 21:11:00 pid:2633 Workerman[start.php] start in DEBUG mode
+2020-07-19 21:12:00 pid:2712 Workerman[start.php] start in DEBUG mode
+2020-07-19 21:12:00 pid:2712 Workerman[start.php] already running
+2020-07-20 01:30:03 pid:10420 Workerman[start.php] start in DEBUG mode
+2020-07-20 01:30:03 pid:10420 Workerman[start.php] already running
+2020-07-20 11:35:31 pid:2633 Workerman[start.php] stopping ...
+2020-07-20 11:35:31 pid:2633 Workerman[start.php] has been stopped
+2020-07-20 11:38:30 pid:2627 Workerman[start.php] start in DEBUG mode
+2020-07-27 01:30:02 pid:27885 Workerman[start.php] start in DEBUG mode
+2020-07-27 01:30:02 pid:27885 Workerman[start.php] already running
+2020-07-27 16:36:17 pid:2627 Workerman[start.php] stopping ...
+2020-07-27 16:36:17 pid:2627 worker[PHPSocketIO:2628] exit with status 4991
+2020-07-27 16:36:17 pid:2627 Workerman[start.php] has been stopped
+2020-07-27 16:38:17 pid:2571 Workerman[start.php] start in DEBUG mode
+2020-07-31 14:49:10 pid:2571 Workerman[start.php] stopping ...
+2020-07-31 14:51:10 pid:2759 Workerman[start.php] start in DEBUG mode
+2020-08-02 14:52:26 pid:2759 Workerman[start.php] stopping ...
+2020-08-03 01:30:02 pid:17774 Workerman[start.php] start in DEBUG mode
+2020-08-03 17:21:52 pid:2742 Workerman[start.php] start in DEBUG mode
+2020-08-05 19:30:54 pid:2742 Workerman[start.php] stopping ...
+2020-08-05 19:30:55 pid:2742 worker[PHPSocketIO:2743] exit with status 4991
+2020-08-05 19:30:55 pid:2742 Workerman[start.php] has been stopped
+2020-08-05 19:32:47 pid:2578 Workerman[start.php] start in DEBUG mode
+2020-08-10 01:30:01 pid:25901 Workerman[start.php] start in DEBUG mode
+2020-08-10 01:30:01 pid:25901 Workerman[start.php] already running
+2020-08-10 21:22:07 pid:2578 Workerman[start.php] stopping ...
+2020-08-10 21:24:01 pid:2624 Workerman[start.php] start in DEBUG mode
+2020-08-14 17:25:36 pid:2624 Workerman[start.php] stopping ...
+2020-08-14 17:29:28 pid:2647 Workerman[start.php] start in DEBUG mode
+2020-08-16 09:18:35 pid:2996 Workerman[start.php] start in DAEMON mode
+2020-08-16 09:35:56 pid:17814 Workerman[start.php] start in DAEMON mode
+2020-08-16 09:35:56 pid:17814 Workerman[start.php] already running
+2020-08-16 09:39:03 pid:20637 Workerman[start.php] start in DAEMON mode
+2020-08-16 09:39:03 pid:20637 Workerman[start.php] already running
+2020-08-16 09:39:20 pid:20906 Workerman[start.php] stop 
+2020-08-16 09:39:20 pid:20906 Workerman[start.php] is stoping ...
+2020-08-16 09:39:20 pid:2998 Workerman[start.php] stopping ...
+2020-08-16 09:39:20 pid:2998 Workerman[start.php] has been stopped
+2020-08-16 09:39:20 pid:20906 Workerman[start.php] stop success
+2020-08-16 09:39:31 pid:21083 Workerman[start.php] start in DAEMON mode
+2020-08-18 14:47:46 pid:8788 Workerman[start.php] start in DAEMON mode
+2020-08-18 14:48:15 pid:8928 Workerman[start.php] start in DAEMON mode
+2020-08-18 14:49:06 pid:9136 Workerman[start.php] stop 
+2020-08-18 14:49:06 pid:9136 Workerman[start.php] not run
+2020-08-18 14:50:14 pid:9434 Workerman[start.php] start in DAEMON mode
+2020-08-18 15:25:01 pid:12730 Workerman[start.php] start in DEBUG mode
+2020-08-18 15:26:02 pid:13003 Workerman[start.php] start in DEBUG mode
+2020-08-18 15:27:02 pid:13249 Workerman[start.php] start in DEBUG mode
+2020-08-18 15:28:02 pid:13449 Workerman[start.php] start in DEBUG mode
+2020-08-18 15:29:02 pid:13661 Workerman[start.php] start in DEBUG mode
+2020-08-18 15:30:01 pid:13896 Workerman[start.php] start in DEBUG mode
+2020-08-18 15:31:01 pid:14122 Workerman[start.php] start in DEBUG mode
+2020-08-18 15:32:02 pid:14383 Workerman[start.php] start in DEBUG mode
+2020-08-18 15:33:01 pid:14629 Workerman[start.php] start in DEBUG mode
+2020-08-18 15:34:01 pid:14944 Workerman[start.php] start in DEBUG mode
+2020-08-18 15:35:02 pid:15303 Workerman[start.php] start in DEBUG mode
+2020-08-18 15:36:02 pid:15486 Workerman[start.php] start in DEBUG mode
+2020-08-18 15:37:01 pid:15697 Workerman[start.php] start in DEBUG mode
+2020-08-18 15:38:02 pid:15981 Workerman[start.php] start in DEBUG mode
+2020-08-18 15:39:01 pid:16205 Workerman[start.php] start in DEBUG mode
+2020-08-18 15:40:02 pid:16499 Workerman[start.php] start in DEBUG mode
+2020-08-18 15:41:02 pid:16693 Workerman[start.php] start in DEBUG mode
+2020-08-18 15:42:01 pid:16950 Workerman[start.php] start in DEBUG mode
+2020-08-18 15:43:02 pid:17159 Workerman[start.php] start in DEBUG mode
+2020-08-18 15:44:02 pid:17361 Workerman[start.php] start in DEBUG mode
+2020-08-18 15:45:01 pid:17612 Workerman[start.php] start in DEBUG mode
+2020-08-18 15:46:01 pid:17795 Workerman[start.php] start in DEBUG mode
+2020-08-18 15:47:02 pid:18018 Workerman[start.php] start in DEBUG mode
+2020-08-18 15:48:02 pid:18248 Workerman[start.php] start in DEBUG mode
+2020-08-18 15:49:02 pid:18471 Workerman[start.php] start in DEBUG mode
+2020-08-18 15:50:02 pid:18637 Workerman[start.php] start in DEBUG mode
+2020-08-18 15:51:02 pid:18891 Workerman[start.php] start in DEBUG mode
+2020-08-18 15:52:02 pid:19174 Workerman[start.php] start in DEBUG mode
+2020-08-18 15:53:01 pid:19466 Workerman[start.php] start in DEBUG mode
+2020-08-18 15:54:02 pid:19722 Workerman[start.php] start in DEBUG mode
+2020-08-18 15:55:01 pid:19925 Workerman[start.php] start in DEBUG mode
+2020-08-18 15:56:01 pid:20322 Workerman[start.php] start in DEBUG mode
+2020-08-18 15:57:02 pid:20754 Workerman[start.php] start in DEBUG mode
+2020-08-18 15:58:01 pid:21209 Workerman[start.php] start in DEBUG mode
+2020-08-18 15:59:02 pid:21651 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:00:01 pid:22032 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:01:02 pid:22499 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:02:02 pid:22963 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:03:01 pid:23413 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:04:01 pid:24027 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:05:02 pid:24551 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:06:01 pid:26181 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:07:01 pid:26717 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:08:01 pid:27254 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:09:01 pid:27780 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:10:02 pid:29778 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:11:01 pid:30272 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:12:01 pid:30772 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:13:02 pid:31285 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:14:02 pid:31855 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:15:01 pid:32415 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:16:01 pid:32884 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:17:01 pid:33389 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:18:02 pid:33857 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:19:02 pid:34519 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:20:01 pid:35043 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:21:02 pid:35564 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:22:01 pid:36097 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:23:01 pid:36547 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:24:02 pid:37045 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:25:01 pid:37582 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:26:01 pid:38151 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:27:01 pid:38598 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:28:01 pid:39169 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:29:01 pid:39692 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:30:01 pid:40404 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:31:01 pid:40886 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:32:01 pid:41361 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:33:01 pid:41879 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:34:01 pid:42322 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:35:01 pid:42833 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:36:01 pid:43276 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:37:01 pid:43780 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:38:01 pid:44232 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:39:01 pid:44757 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:40:01 pid:45198 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:41:02 pid:45717 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:42:01 pid:46177 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:43:02 pid:46659 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:44:02 pid:47166 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:45:01 pid:47620 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:46:02 pid:48100 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:47:01 pid:48567 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:48:01 pid:49033 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:49:01 pid:49507 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:50:01 pid:50002 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:51:01 pid:50501 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:52:02 pid:51004 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:53:02 pid:51439 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:54:01 pid:51944 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:55:02 pid:52447 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:56:02 pid:52928 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:57:01 pid:53384 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:58:01 pid:53840 Workerman[start.php] start in DEBUG mode
+2020-08-18 16:59:01 pid:54337 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:00:01 pid:54827 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:01:01 pid:55339 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:02:02 pid:55875 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:03:02 pid:56347 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:04:02 pid:56782 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:05:01 pid:57259 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:06:01 pid:57756 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:07:02 pid:58271 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:08:01 pid:58761 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:09:02 pid:59218 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:10:02 pid:59701 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:11:02 pid:60179 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:12:01 pid:60677 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:13:01 pid:61140 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:14:01 pid:61598 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:15:02 pid:62104 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:16:01 pid:62591 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:17:01 pid:63045 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:18:01 pid:63560 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:19:01 pid:64025 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:20:02 pid:64495 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:21:02 pid:64951 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:22:01 pid:65427 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:23:02 pid:766 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:24:01 pid:1268 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:25:02 pid:1731 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:26:02 pid:2220 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:27:01 pid:2684 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:28:01 pid:3197 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:29:02 pid:3669 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:30:02 pid:4145 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:31:01 pid:4633 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:32:01 pid:5124 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:33:01 pid:5584 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:34:01 pid:6118 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:35:01 pid:6562 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:36:01 pid:7035 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:37:01 pid:7538 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:38:01 pid:8034 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:39:01 pid:8494 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:40:01 pid:8978 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:41:01 pid:9488 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:42:01 pid:9965 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:43:01 pid:10441 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:44:01 pid:10931 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:45:02 pid:11696 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:46:01 pid:12176 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:47:01 pid:12629 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:48:02 pid:13181 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:49:02 pid:13641 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:50:02 pid:14147 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:51:01 pid:14653 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:52:01 pid:15131 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:53:02 pid:15614 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:54:01 pid:16094 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:55:01 pid:16595 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:56:02 pid:17103 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:57:01 pid:17586 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:58:02 pid:18091 Workerman[start.php] start in DEBUG mode
+2020-08-18 17:59:01 pid:18556 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:00:02 pid:19035 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:01:01 pid:19609 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:02:01 pid:20128 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:03:01 pid:20596 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:04:01 pid:21057 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:04:01 pid:21057 Workerman[start.php] already running
+2020-08-18 18:05:01 pid:21526 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:05:01 pid:21526 Workerman[start.php] already running
+2020-08-18 18:06:01 pid:22011 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:06:01 pid:22011 Workerman[start.php] already running
+2020-08-18 18:07:01 pid:22539 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:07:01 pid:22539 Workerman[start.php] already running
+2020-08-18 18:08:01 pid:23005 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:08:01 pid:23005 Workerman[start.php] already running
+2020-08-18 18:09:01 pid:23498 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:09:01 pid:23498 Workerman[start.php] already running
+2020-08-18 18:10:01 pid:23999 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:10:01 pid:23999 Workerman[start.php] already running
+2020-08-18 18:11:02 pid:24435 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:11:02 pid:24435 Workerman[start.php] already running
+2020-08-18 18:12:02 pid:24962 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:12:02 pid:24962 Workerman[start.php] already running
+2020-08-18 18:13:02 pid:25448 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:13:02 pid:25448 Workerman[start.php] already running
+2020-08-18 18:14:01 pid:25937 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:14:01 pid:25937 Workerman[start.php] already running
+2020-08-18 18:15:01 pid:26444 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:15:01 pid:26444 Workerman[start.php] already running
+2020-08-18 18:16:02 pid:26901 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:16:02 pid:26901 Workerman[start.php] already running
+2020-08-18 18:17:01 pid:27373 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:17:01 pid:27373 Workerman[start.php] already running
+2020-08-18 18:18:02 pid:27889 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:18:02 pid:27889 Workerman[start.php] already running
+2020-08-18 18:19:02 pid:28365 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:19:02 pid:28365 Workerman[start.php] already running
+2020-08-18 18:20:02 pid:28835 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:20:02 pid:28835 Workerman[start.php] already running
+2020-08-18 18:21:01 pid:29333 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:21:01 pid:29333 Workerman[start.php] already running
+2020-08-18 18:22:01 pid:29831 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:22:01 pid:29831 Workerman[start.php] already running
+2020-08-18 18:23:01 pid:30298 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:23:01 pid:30298 Workerman[start.php] already running
+2020-08-18 18:24:02 pid:30777 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:24:02 pid:30777 Workerman[start.php] already running
+2020-08-18 18:25:02 pid:31255 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:25:02 pid:31255 Workerman[start.php] already running
+2020-08-18 18:26:01 pid:31781 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:26:01 pid:31781 Workerman[start.php] already running
+2020-08-18 18:27:01 pid:32226 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:27:01 pid:32226 Workerman[start.php] already running
+2020-08-18 18:28:01 pid:32756 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:28:01 pid:32756 Workerman[start.php] already running
+2020-08-18 18:29:01 pid:33233 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:29:01 pid:33233 Workerman[start.php] already running
+2020-08-18 18:30:02 pid:33764 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:30:02 pid:33764 Workerman[start.php] already running
+2020-08-18 18:31:01 pid:34250 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:31:01 pid:34250 Workerman[start.php] already running
+2020-08-18 18:32:02 pid:34741 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:32:02 pid:34741 Workerman[start.php] already running
+2020-08-18 18:33:02 pid:35226 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:33:02 pid:35226 Workerman[start.php] already running
+2020-08-18 18:34:01 pid:35674 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:34:01 pid:35674 Workerman[start.php] already running
+2020-08-18 18:35:01 pid:36183 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:35:01 pid:36183 Workerman[start.php] already running
+2020-08-18 18:36:02 pid:36678 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:36:02 pid:36678 Workerman[start.php] already running
+2020-08-18 18:37:01 pid:37158 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:37:01 pid:37158 Workerman[start.php] already running
+2020-08-18 18:38:02 pid:37631 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:38:02 pid:37631 Workerman[start.php] already running
+2020-08-18 18:39:02 pid:38125 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:39:02 pid:38125 Workerman[start.php] already running
+2020-08-18 18:40:01 pid:38609 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:40:01 pid:38609 Workerman[start.php] already running
+2020-08-18 18:41:01 pid:39116 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:41:01 pid:39116 Workerman[start.php] already running
+2020-08-18 18:42:01 pid:39584 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:42:01 pid:39584 Workerman[start.php] already running
+2020-08-18 18:43:01 pid:40093 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:43:01 pid:40093 Workerman[start.php] already running
+2020-08-18 18:44:02 pid:40604 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:44:02 pid:40604 Workerman[start.php] already running
+2020-08-18 18:45:01 pid:41121 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:45:01 pid:41121 Workerman[start.php] already running
+2020-08-18 18:46:01 pid:41664 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:46:01 pid:41664 Workerman[start.php] already running
+2020-08-18 18:47:01 pid:42169 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:47:01 pid:42169 Workerman[start.php] already running
+2020-08-18 18:48:02 pid:42685 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:48:02 pid:42685 Workerman[start.php] already running
+2020-08-18 18:49:02 pid:43187 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:49:02 pid:43187 Workerman[start.php] already running
+2020-08-18 18:50:01 pid:43706 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:50:01 pid:43706 Workerman[start.php] already running
+2020-08-18 18:51:01 pid:44207 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:51:01 pid:44207 Workerman[start.php] already running
+2020-08-18 18:52:01 pid:44706 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:52:01 pid:44706 Workerman[start.php] already running
+2020-08-18 18:53:01 pid:45230 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:53:01 pid:45230 Workerman[start.php] already running
+2020-08-18 18:54:01 pid:45773 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:54:01 pid:45773 Workerman[start.php] already running
+2020-08-18 18:55:02 pid:46302 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:55:02 pid:46302 Workerman[start.php] already running
+2020-08-18 18:56:01 pid:46823 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:56:01 pid:46823 Workerman[start.php] already running
+2020-08-18 18:57:01 pid:47390 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:57:01 pid:47390 Workerman[start.php] already running
+2020-08-18 18:58:01 pid:47898 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:58:01 pid:47898 Workerman[start.php] already running
+2020-08-18 18:59:02 pid:48425 Workerman[start.php] start in DEBUG mode
+2020-08-18 18:59:02 pid:48425 Workerman[start.php] already running
+2020-08-18 19:00:02 pid:48922 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:00:02 pid:48922 Workerman[start.php] already running
+2020-08-18 19:01:01 pid:49477 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:01:01 pid:49477 Workerman[start.php] already running
+2020-08-18 19:02:01 pid:50025 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:02:01 pid:50025 Workerman[start.php] already running
+2020-08-18 19:03:01 pid:50522 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:03:01 pid:50522 Workerman[start.php] already running
+2020-08-18 19:04:01 pid:51063 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:04:01 pid:51063 Workerman[start.php] already running
+2020-08-18 19:05:01 pid:51559 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:05:01 pid:51559 Workerman[start.php] already running
+2020-08-18 19:06:01 pid:52053 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:06:01 pid:52053 Workerman[start.php] already running
+2020-08-18 19:07:01 pid:52524 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:07:01 pid:52524 Workerman[start.php] already running
+2020-08-18 19:08:02 pid:53032 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:08:02 pid:53032 Workerman[start.php] already running
+2020-08-18 19:09:02 pid:53507 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:09:02 pid:53507 Workerman[start.php] already running
+2020-08-18 19:10:02 pid:53899 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:10:02 pid:53899 Workerman[start.php] already running
+2020-08-18 19:11:02 pid:54719 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:11:02 pid:54719 Workerman[start.php] already running
+2020-08-18 19:12:01 pid:54994 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:12:01 pid:54994 Workerman[start.php] already running
+2020-08-18 19:13:02 pid:55246 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:13:02 pid:55246 Workerman[start.php] already running
+2020-08-18 19:14:01 pid:55530 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:14:01 pid:55530 Workerman[start.php] already running
+2020-08-18 19:15:02 pid:55767 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:15:02 pid:55767 Workerman[start.php] already running
+2020-08-18 19:16:02 pid:56049 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:16:02 pid:56049 Workerman[start.php] already running
+2020-08-18 19:17:02 pid:56292 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:17:02 pid:56292 Workerman[start.php] already running
+2020-08-18 19:18:02 pid:56583 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:18:02 pid:56583 Workerman[start.php] already running
+2020-08-18 19:19:02 pid:56841 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:19:02 pid:56841 Workerman[start.php] already running
+2020-08-18 19:20:01 pid:57090 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:20:01 pid:57090 Workerman[start.php] already running
+2020-08-18 19:21:01 pid:57389 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:21:01 pid:57389 Workerman[start.php] already running
+2020-08-18 19:22:02 pid:61289 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:22:02 pid:61289 Workerman[start.php] already running
+2020-08-18 19:23:02 pid:384 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:23:02 pid:384 Workerman[start.php] already running
+2020-08-18 19:24:01 pid:3966 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:24:01 pid:3966 Workerman[start.php] already running
+2020-08-18 19:25:02 pid:6797 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:25:02 pid:6797 Workerman[start.php] already running
+2020-08-18 19:26:01 pid:9418 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:26:01 pid:9418 Workerman[start.php] already running
+2020-08-18 19:27:01 pid:12853 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:27:01 pid:12853 Workerman[start.php] already running
+2020-08-18 19:28:02 pid:15869 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:28:02 pid:15869 Workerman[start.php] already running
+2020-08-18 19:29:01 pid:19318 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:29:01 pid:19318 Workerman[start.php] already running
+2020-08-18 19:30:02 pid:22261 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:30:02 pid:22261 Workerman[start.php] already running
+2020-08-18 19:31:01 pid:25867 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:31:01 pid:25867 Workerman[start.php] already running
+2020-08-18 19:32:01 pid:29525 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:32:01 pid:29525 Workerman[start.php] already running
+2020-08-18 19:33:01 pid:33929 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:33:01 pid:33929 Workerman[start.php] already running
+2020-08-18 19:34:01 pid:37658 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:34:01 pid:37658 Workerman[start.php] already running
+2020-08-18 19:35:02 pid:40940 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:35:02 pid:40940 Workerman[start.php] already running
+2020-08-18 19:36:02 pid:44429 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:36:02 pid:44429 Workerman[start.php] already running
+2020-08-18 19:37:02 pid:47927 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:37:02 pid:47927 Workerman[start.php] already running
+2020-08-18 19:38:02 pid:51706 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:38:02 pid:51706 Workerman[start.php] already running
+2020-08-18 19:39:02 pid:55317 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:39:02 pid:55317 Workerman[start.php] already running
+2020-08-18 19:40:02 pid:58986 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:40:02 pid:58986 Workerman[start.php] already running
+2020-08-18 19:41:02 pid:61900 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:41:02 pid:61900 Workerman[start.php] already running
+2020-08-18 19:42:02 pid:64893 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:42:02 pid:64893 Workerman[start.php] already running
+2020-08-18 19:43:03 pid:2260 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:43:03 pid:2260 Workerman[start.php] already running
+2020-08-18 19:44:04 pid:6125 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:44:04 pid:6125 Workerman[start.php] already running
+2020-08-18 19:45:04 pid:8591 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:45:04 pid:8591 Workerman[start.php] already running
+2020-08-18 19:46:03 pid:11705 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:46:03 pid:11705 Workerman[start.php] already running
+2020-08-18 19:47:02 pid:14718 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:47:02 pid:14718 Workerman[start.php] already running
+2020-08-18 19:48:03 pid:16849 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:48:03 pid:16849 Workerman[start.php] already running
+2020-08-18 19:49:03 pid:19580 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:49:03 pid:19580 Workerman[start.php] already running
+2020-08-18 19:50:03 pid:22728 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:50:03 pid:22728 Workerman[start.php] already running
+2020-08-18 19:51:04 pid:25756 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:51:04 pid:25756 Workerman[start.php] already running
+2020-08-18 19:52:04 pid:29378 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:52:04 pid:29378 Workerman[start.php] already running
+2020-08-18 19:53:02 pid:30473 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:53:02 pid:30473 Workerman[start.php] already running
+2020-08-18 19:54:08 pid:34133 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:54:08 pid:34133 Workerman[start.php] already running
+2020-08-18 19:55:03 pid:37692 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:55:03 pid:37692 Workerman[start.php] already running
+2020-08-18 19:56:06 pid:41720 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:56:06 pid:41720 Workerman[start.php] already running
+2020-08-18 19:57:04 pid:44149 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:57:04 pid:44149 Workerman[start.php] already running
+2020-08-18 19:58:04 pid:47112 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:58:04 pid:47112 Workerman[start.php] already running
+2020-08-18 19:59:02 pid:50124 Workerman[start.php] start in DEBUG mode
+2020-08-18 19:59:02 pid:50124 Workerman[start.php] already running
+2020-08-18 20:00:04 pid:53672 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:00:04 pid:53672 Workerman[start.php] already running
+2020-08-18 20:01:02 pid:57568 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:01:02 pid:57568 Workerman[start.php] already running
+2020-08-18 20:02:12 pid:61637 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:02:12 pid:61637 Workerman[start.php] already running
+2020-08-18 20:03:02 pid:62376 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:03:02 pid:62376 Workerman[start.php] already running
+2020-08-18 20:04:04 pid:65059 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:04:04 pid:65059 Workerman[start.php] already running
+2020-08-18 20:05:02 pid:2951 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:05:03 pid:2951 Workerman[start.php] already running
+2020-08-18 20:06:03 pid:6057 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:06:03 pid:6057 Workerman[start.php] already running
+2020-08-18 20:07:03 pid:8894 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:07:03 pid:8894 Workerman[start.php] already running
+2020-08-18 20:08:03 pid:11874 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:08:03 pid:11874 Workerman[start.php] already running
+2020-08-18 20:09:04 pid:15568 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:09:04 pid:15568 Workerman[start.php] already running
+2020-08-18 20:10:05 pid:19195 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:10:05 pid:19195 Workerman[start.php] already running
+2020-08-18 20:11:03 pid:21112 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:11:03 pid:21112 Workerman[start.php] already running
+2020-08-18 20:12:03 pid:24252 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:12:03 pid:24252 Workerman[start.php] already running
+2020-08-18 20:13:03 pid:27029 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:13:03 pid:27029 Workerman[start.php] already running
+2020-08-18 20:13:47 pid:28287 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:13:47 pid:28287 Workerman[start.php] already running
+2020-08-18 20:14:04 pid:29345 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:14:04 pid:29345 Workerman[start.php] already running
+2020-08-18 20:15:03 pid:32950 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:15:03 pid:32950 Workerman[start.php] already running
+2020-08-18 20:16:04 pid:36297 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:16:04 pid:36297 Workerman[start.php] already running
+2020-08-18 20:17:03 pid:39120 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:17:03 pid:39120 Workerman[start.php] already running
+2020-08-18 20:17:43 pid:40112 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:17:43 pid:40112 Workerman[start.php] already running
+2020-08-18 20:18:04 pid:41260 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:18:04 pid:41260 Workerman[start.php] already running
+2020-08-18 20:19:02 pid:44664 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:19:02 pid:44664 Workerman[start.php] already running
+2020-08-18 20:20:06 pid:48420 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:20:06 pid:48420 Workerman[start.php] already running
+2020-08-18 20:21:03 pid:50305 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:21:03 pid:50305 Workerman[start.php] already running
+2020-08-18 20:22:03 pid:53861 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:22:03 pid:53861 Workerman[start.php] already running
+2020-08-18 20:23:03 pid:56805 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:23:03 pid:56805 Workerman[start.php] already running
+2020-08-18 20:24:09 pid:61154 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:24:09 pid:61154 Workerman[start.php] already running
+2020-08-18 20:25:02 pid:63309 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:25:02 pid:63309 Workerman[start.php] already running
+2020-08-18 20:26:06 pid:2218 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:26:06 pid:2218 Workerman[start.php] already running
+2020-08-18 20:27:02 pid:4326 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:27:02 pid:4326 Workerman[start.php] already running
+2020-08-18 20:28:06 pid:7913 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:28:06 pid:7913 Workerman[start.php] already running
+2020-08-18 20:29:02 pid:11556 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:29:02 pid:11556 Workerman[start.php] already running
+2020-08-18 20:29:12 pid:12226 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:29:12 pid:12226 Workerman[start.php] already running
+2020-08-18 20:30:02 pid:15234 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:30:02 pid:15234 Workerman[start.php] already running
+2020-08-18 20:31:03 pid:18930 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:31:03 pid:18930 Workerman[start.php] already running
+2020-08-18 20:32:04 pid:21090 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:32:04 pid:21090 Workerman[start.php] already running
+2020-08-18 20:33:03 pid:23879 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:33:03 pid:23879 Workerman[start.php] already running
+2020-08-18 20:33:11 pid:24418 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:33:11 pid:24418 Workerman[start.php] already running
+2020-08-18 20:34:02 pid:26575 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:34:02 pid:26575 Workerman[start.php] already running
+2020-08-18 20:35:04 pid:29972 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:35:04 pid:29972 Workerman[start.php] already running
+2020-08-18 20:36:04 pid:32549 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:36:04 pid:32549 Workerman[start.php] already running
+2020-08-18 20:36:35 pid:33522 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:36:35 pid:33522 Workerman[start.php] already running
+2020-08-18 20:37:02 pid:35362 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:37:02 pid:35362 Workerman[start.php] already running
+2020-08-18 20:38:03 pid:38204 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:38:03 pid:38204 Workerman[start.php] already running
+2020-08-18 20:39:04 pid:41148 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:39:04 pid:41148 Workerman[start.php] already running
+2020-08-18 20:39:38 pid:41722 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:39:38 pid:41722 Workerman[start.php] already running
+2020-08-18 20:40:03 pid:43126 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:40:03 pid:43126 Workerman[start.php] already running
+2020-08-18 20:41:03 pid:45640 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:41:03 pid:45640 Workerman[start.php] already running
+2020-08-18 20:42:02 pid:48576 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:42:02 pid:48576 Workerman[start.php] already running
+2020-08-18 20:43:06 pid:52918 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:43:06 pid:52918 Workerman[start.php] already running
+2020-08-18 20:44:02 pid:55590 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:44:03 pid:55590 Workerman[start.php] already running
+2020-08-18 20:45:05 pid:58183 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:45:05 pid:58183 Workerman[start.php] already running
+2020-08-18 20:45:27 pid:59117 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:45:27 pid:59117 Workerman[start.php] already running
+2020-08-18 20:46:03 pid:62671 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:46:03 pid:62671 Workerman[start.php] already running
+2020-08-18 20:47:02 pid:7145 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:47:02 pid:7145 Workerman[start.php] already running
+2020-08-18 20:47:17 pid:8094 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:47:17 pid:8094 Workerman[start.php] already running
+2020-08-18 20:48:02 pid:16238 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:48:02 pid:16238 Workerman[start.php] already running
+2020-08-18 20:49:06 pid:26915 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:49:07 pid:26915 Workerman[start.php] already running
+2020-08-18 20:50:03 pid:36928 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:50:03 pid:36928 Workerman[start.php] already running
+2020-08-18 20:50:38 pid:38652 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:50:38 pid:38652 Workerman[start.php] already running
+2020-08-18 20:51:03 pid:42987 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:51:03 pid:42987 Workerman[start.php] already running
+2020-08-18 20:52:02 pid:50872 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:52:02 pid:50872 Workerman[start.php] already running
+22020-08-18 20:57:03 pid:31223 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:57:12 pid:31223 Workerman[start.php] stopping ...
+2020-08-18 20:58:05 pid:1000 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:59:01 pid:3061 Workerman[start.php] start in DEBUG mode
+2020-08-18 20:59:01 pid:3061 Workerman[start.php] already running
+2020-08-18 21:00:02 pid:3389 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:00:02 pid:3389 Workerman[start.php] already running
+2020-08-18 21:01:01 pid:3712 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:01:01 pid:3712 Workerman[start.php] already running
+2020-08-18 21:02:02 pid:4002 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:02:02 pid:4002 Workerman[start.php] already running
+2020-08-18 21:03:01 pid:4362 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:03:01 pid:4362 Workerman[start.php] already running
+2020-08-18 21:04:01 pid:4606 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:04:01 pid:4606 Workerman[start.php] already running
+2020-08-18 21:05:01 pid:4889 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:05:01 pid:4889 Workerman[start.php] already running
+2020-08-18 21:06:01 pid:5150 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:06:01 pid:5150 Workerman[start.php] already running
+2020-08-18 21:07:01 pid:5387 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:07:01 pid:5387 Workerman[start.php] already running
+2020-08-18 21:08:02 pid:5648 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:08:02 pid:5648 Workerman[start.php] already running
+2020-08-18 21:09:01 pid:5931 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:09:01 pid:5931 Workerman[start.php] already running
+2020-08-18 21:10:02 pid:6184 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:10:02 pid:6184 Workerman[start.php] already running
+2020-08-18 21:11:02 pid:6475 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:11:02 pid:6475 Workerman[start.php] already running
+2020-08-18 21:12:02 pid:6700 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:12:02 pid:6700 Workerman[start.php] already running
+2020-08-18 21:13:01 pid:7003 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:13:01 pid:7003 Workerman[start.php] already running
+2020-08-18 21:14:01 pid:7227 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:14:01 pid:7227 Workerman[start.php] already running
+2020-08-18 21:15:01 pid:7490 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:15:01 pid:7490 Workerman[start.php] already running
+2020-08-18 21:16:01 pid:7785 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:16:01 pid:7785 Workerman[start.php] already running
+2020-08-18 21:17:01 pid:8016 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:17:01 pid:8016 Workerman[start.php] already running
+2020-08-18 21:18:01 pid:8297 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:18:01 pid:8297 Workerman[start.php] already running
+2020-08-18 21:19:01 pid:8561 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:19:01 pid:8561 Workerman[start.php] already running
+2020-08-18 21:20:02 pid:8805 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:20:02 pid:8805 Workerman[start.php] already running
+2020-08-18 21:21:01 pid:9062 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:21:01 pid:9062 Workerman[start.php] already running
+2020-08-18 21:22:02 pid:9362 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:22:02 pid:9362 Workerman[start.php] already running
+2020-08-18 21:23:01 pid:9586 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:23:01 pid:9586 Workerman[start.php] already running
+2020-08-18 21:24:01 pid:9896 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:24:01 pid:9896 Workerman[start.php] already running
+2020-08-18 21:25:01 pid:10125 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:25:01 pid:10125 Workerman[start.php] already running
+2020-08-18 21:26:01 pid:10433 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:26:01 pid:10433 Workerman[start.php] already running
+2020-08-18 21:27:01 pid:10659 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:27:01 pid:10659 Workerman[start.php] already running
+2020-08-18 21:28:01 pid:10965 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:28:01 pid:10965 Workerman[start.php] already running
+2020-08-18 21:29:01 pid:11183 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:29:01 pid:11183 Workerman[start.php] already running
+2020-08-18 21:30:02 pid:11446 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:30:02 pid:11446 Workerman[start.php] already running
+2020-08-18 21:31:01 pid:11713 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:31:01 pid:11713 Workerman[start.php] already running
+2020-08-18 21:32:02 pid:11999 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:32:02 pid:11999 Workerman[start.php] already running
+2020-08-18 21:33:01 pid:12234 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:33:01 pid:12234 Workerman[start.php] already running
+2020-08-18 21:34:01 pid:12518 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:34:01 pid:12518 Workerman[start.php] already running
+2020-08-18 21:35:01 pid:12753 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:35:01 pid:12753 Workerman[start.php] already running
+2020-08-18 21:36:02 pid:13027 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:36:02 pid:13027 Workerman[start.php] already running
+2020-08-18 21:37:01 pid:13294 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:37:01 pid:13294 Workerman[start.php] already running
+2020-08-18 21:38:01 pid:13577 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:38:01 pid:13577 Workerman[start.php] already running
+2020-08-18 21:39:01 pid:13809 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:39:01 pid:13809 Workerman[start.php] already running
+2020-08-18 21:40:01 pid:14077 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:40:01 pid:14077 Workerman[start.php] already running
+2020-08-18 21:41:01 pid:14373 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:41:01 pid:14373 Workerman[start.php] already running
+2020-08-18 21:42:02 pid:14642 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:42:02 pid:14642 Workerman[start.php] already running
+2020-08-18 21:43:01 pid:14875 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:43:01 pid:14875 Workerman[start.php] already running
+2020-08-18 21:44:02 pid:15175 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:44:02 pid:15175 Workerman[start.php] already running
+2020-08-18 21:45:02 pid:15443 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:45:02 pid:15443 Workerman[start.php] already running
+2020-08-18 21:46:02 pid:15697 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:46:02 pid:15697 Workerman[start.php] already running
+2020-08-18 21:47:01 pid:15940 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:47:01 pid:15940 Workerman[start.php] already running
+2020-08-18 21:48:02 pid:16224 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:48:02 pid:16224 Workerman[start.php] already running
+2020-08-18 21:49:01 pid:16456 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:49:01 pid:16456 Workerman[start.php] already running
+2020-08-18 21:50:01 pid:16745 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:50:01 pid:16745 Workerman[start.php] already running
+2020-08-18 21:51:01 pid:17021 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:51:01 pid:17021 Workerman[start.php] already running
+2020-08-18 21:52:01 pid:17276 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:52:01 pid:17276 Workerman[start.php] already running
+2020-08-18 21:53:01 pid:17507 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:53:01 pid:17507 Workerman[start.php] already running
+2020-08-18 21:54:01 pid:17809 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:54:01 pid:17809 Workerman[start.php] already running
+2020-08-18 21:55:02 pid:18037 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:55:02 pid:18037 Workerman[start.php] already running
+2020-08-18 21:56:02 pid:18334 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:56:02 pid:18334 Workerman[start.php] already running
+2020-08-18 21:57:02 pid:18549 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:57:02 pid:18549 Workerman[start.php] already running
+2020-08-18 21:58:01 pid:18826 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:58:01 pid:18826 Workerman[start.php] already running
+2020-08-18 21:59:01 pid:19084 Workerman[start.php] start in DEBUG mode
+2020-08-18 21:59:01 pid:19084 Workerman[start.php] already running
+2020-08-18 22:00:01 pid:19344 Workerman[start.php] start in DEBUG mode
+2020-08-18 22:00:01 pid:19344 Workerman[start.php] already running
+2020-08-18 22:01:01 pid:19666 Workerman[start.php] start in DEBUG mode
+2020-08-18 22:01:01 pid:19666 Workerman[start.php] already running
+2020-08-18 22:02:01 pid:19943 Workerman[start.php] start in DEBUG mode
+2020-08-18 22:02:01 pid:19943 Workerman[start.php] already running
+2020-08-18 22:03:02 pid:20243 Workerman[start.php] start in DEBUG mode
+2020-08-18 22:03:02 pid:20243 Workerman[start.php] already running
+2020-08-18 22:04:02 pid:20504 Workerman[start.php] start in DEBUG mode
+2020-08-18 22:04:02 pid:20504 Workerman[start.php] already running
+2020-08-18 22:05:01 pid:20763 Workerman[start.php] start in DEBUG mode
+2020-08-18 22:05:01 pid:20763 Workerman[start.php] already running
+2020-08-18 22:06:02 pid:21012 Workerman[start.php] start in DEBUG mode
+2020-08-18 22:06:02 pid:21012 Workerman[start.php] already running
+2020-08-18 22:07:02 pid:21252 Workerman[start.php] start in DEBUG mode
+2020-08-18 22:07:02 pid:21252 Workerman[start.php] already running
+2020-08-18 22:08:02 pid:21551 Workerman[start.php] start in DEBUG mode
+2020-08-18 22:08:02 pid:21551 Workerman[start.php] already running
+2020-08-18 22:09:02 pid:21812 Workerman[start.php] start in DEBUG mode
+2020-08-18 22:09:02 pid:21812 Workerman[start.php] already running
+2020-08-18 22:10:01 pid:22036 Workerman[start.php] start in DEBUG mode
+2020-08-18 22:10:01 pid:22036 Workerman[start.php] already running
+2020-08-18 22:11:01 pid:22330 Workerman[start.php] start in DEBUG mode
+2020-08-18 22:11:01 pid:22330 Workerman[start.php] already running
+2020-08-18 22:12:01 pid:22564 Workerman[start.php] start in DEBUG mode
+2020-08-18 22:12:01 pid:22564 Workerman[start.php] already running
+2020-08-18 22:13:02 pid:22825 Workerman[start.php] start in DEBUG mode
+2020-08-18 22:13:02 pid:22825 Workerman[start.php] already running
+2020-08-18 22:14:02 pid:23120 Workerman[start.php] start in DEBUG mode
+2020-08-18 22:14:02 pid:23120 Workerman[start.php] already running
+2020-08-18 22:15:02 pid:23351 Workerman[start.php] start in DEBUG mode
+2020-08-18 22:15:02 pid:23351 Workerman[start.php] already running
+2020-08-18 22:16:02 pid:23649 Workerman[start.php] start in DEBUG mode
+2020-08-18 22:16:02 pid:23649 Workerman[start.php] already running
+2020-08-18 22:17:02 pid:23904 Workerman[start.php] start in DEBUG mode
+2020-08-18 22:17:02 pid:23904 Workerman[start.php] already running
+2020-08-18 22:18:01 pid:24140 Workerman[start.php] start in DEBUG mode
+2020-08-18 22:18:01 pid:24140 Workerman[start.php] already running
+2020-08-18 22:19:01 pid:24451 Workerman[start.php] start in DEBUG mode
+2020-08-18 22:19:01 pid:24451 Workerman[start.php] already running
+2020-08-18 22:20:01 pid:24743 Workerman[start.php] start in DEBUG mode
+2020-08-18 22:20:01 pid:24743 Workerman[start.php] already running
+2020-08-18 22:21:02 pid:25001 Workerman[start.php] start in DEBUG mode
+2020-08-18 22:21:02 pid:25001 Workerman[start.php] already running
+2020-08-18 22:22:01 pid:25323 Workerman[start.php] start in DEBUG mode
+2020-08-18 22:22:01 pid:25323 Workerman[start.php] already running
+2020-08-18 22:23:02 pid:25640 Workerman[start.php] start in DEBUG mode
+2020-08-18 22:23:02 pid:25640 Workerman[start.php] already running
+2020-09-25 23:29:04 pid:18228 Workerman[start.php] start in DEBUG mode
+2020-09-26 09:38:49 pid:13861 Workerman[start.php] start in DEBUG mode
+2020-09-26 09:38:49 pid:13861 Workerman[start.php] already running
+2020-09-26 14:11:11 pid:4975 Workerman[start.php] start in DEBUG mode
+2020-09-26 14:11:11 pid:4975 Workerman[start.php] already running
+2020-10-23 16:24:18 pid:23732 Workerman[start.php] start in DEBUG mode
+2020-10-23 16:30:04 pid:28541 Workerman[start.php] start in DEBUG mode
+2020-10-23 16:38:44 pid:37009 Workerman[start.php] start in DEBUG mode
+2020-10-23 16:39:04 pid:37289 Workerman[start.php] start in DEBUG mode
+2020-10-23 16:39:04 pid:37289 Workerman[start.php] already running
+2020-10-26 01:30:03 pid:63729 Workerman[start.php] start in DEBUG mode
+2020-10-26 01:30:03 pid:63729 Workerman[start.php] already running
+2020-11-02 01:30:02 pid:41025 Workerman[start.php] start in DEBUG mode
+2020-11-02 01:30:02 pid:41025 Workerman[start.php] already running
+2020-11-05 10:47:15 pid:33774 Workerman[start.php] start in DEBUG mode
+2020-11-05 10:47:15 pid:33774 Workerman[start.php] already running
+2020-11-05 11:19:03 pid:62523 Workerman[start.php] stop 
+2020-11-05 11:19:03 pid:62523 Workerman[start.php] is stoping ...
+2020-11-05 11:19:03 pid:37009 Workerman[start.php] stopping ...
+2020-11-05 11:19:04 pid:37009 Workerman[start.php] has been stopped
+2020-11-05 11:19:04 pid:62523 Workerman[start.php] stop success
+2020-11-05 11:21:23 pid:64652 Workerman[start.php] start in DEBUG mode
+2020-11-05 11:21:58 pid:64652 Workerman[start.php] stopping ...
+2020-11-05 11:21:58 pid:64652 Workerman[start.php] has been stopped
+2020-11-06 09:20:33 pid:9989 Workerman[start.php] start in DEBUG mode
+2020-11-06 09:25:00 pid:15439 Workerman[start.php] start in DEBUG mode
+2020-11-06 09:25:00 pid:15439 Workerman[start.php] already running
+2020-11-07 23:10:55 pid:19534 Workerman[start.php] start in DEBUG mode
+2020-11-09 01:30:03 pid:7622 Workerman[start.php] start in DEBUG mode
+2020-11-09 01:30:03 pid:7622 Workerman[start.php] already running
+2020-11-10 11:01:00 pid:19534 Workerman[start.php] stopping ...
+2020-11-10 11:01:00 pid:19534 worker[WebServer:19540] exit with status 4991
+2020-11-10 11:01:00 pid:19534 Workerman[start.php] has been stopped
+2020-11-10 12:15:21 pid:30344 Workerman[start.php] start in DEBUG mode
+2020-11-10 12:16:59 pid:30344 Workerman[start.php] stopping ...
+2020-11-10 12:20:17 pid:3954 Workerman[start.php] start in DEBUG mode
+2020-11-11 16:27:19 pid:3954 Workerman[start.php] stopping ...
+2020-11-11 16:27:19 pid:3954 Workerman[start.php] has been stopped
+2020-11-11 16:32:21 pid:2352 Workerman[start.php] start in DEBUG mode
+2020-11-11 16:33:56 pid:3746 Workerman[start.php] start in DEBUG mode
+2020-11-11 16:33:56 pid:3746 Workerman[start.php] already running
+2020-11-17 11:35:50 pid:16836 Workerman[start.php] start in DEBUG mode
+2020-11-20 21:26:48 pid:39824 Workerman[start.php] start in DEBUG mode
+2020-11-20 21:59:32 pid:39824 Workerman[start.php] stopping ...
+2020-11-20 21:59:32 pid:39824 Workerman[start.php] has been stopped
+2020-11-20 22:43:47 pid:15143 Workerman[start.php] start in DEBUG mode
+2020-11-23 01:30:02 pid:8690 Workerman[start.php] start in DEBUG mode
+2020-11-23 01:30:02 pid:8690 Workerman[start.php] already running
+2021-03-31 21:19:57 pid:52394 Workerman[start.php] start in DAEMON mode
+2021-03-31 21:40:08 pid:53213 Workerman[start.php] start in DAEMON mode
+2021-03-31 21:40:08 pid:53213 Workerman[start.php] already running
+2021-04-15 00:57:47 pid:52398 Worker process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 5326768 bytes) in /www/wwwroot/coin.ifti.top/public/vendor/webmsgsender/vendor/workerman/workerman/Connection/TcpConnection.php on line 369"
+2021-04-15 00:57:47 pid:52397 worker[PHPSocketIO:52398] exit with status 65280
+2021-04-24 17:37:24 pid:10530 Error: Call to a member function send() on null in /www/wwwroot/coin.ifti.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php:39
+Stack trace:
+#0 /www/wwwroot/coin.ifti.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(318): PHPSocketIO\Engine\Transports\WebSocket->send(Array)
+#1 /www/wwwroot/coin.ifti.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(79): PHPSocketIO\Engine\Socket->flush()
+#2 [internal function]: PHPSocketIO\Engine\Socket->onUpgradePacket(Array)
+#3 /www/wwwroot/coin.ifti.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Event/Emitter.php(91): call_user_func_array(Array, Array)
+#4 /www/wwwroot/coin.ifti.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(56): PHPSocketIO\Event\Emitter->emit('packet', Array)
+#5 /www/wwwroot/coin.ifti.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(61): PHPSocketIO\Engine\Transport->onPacket(Array)
+#6 [internal function]: PHPSocketIO\Engine\Transport->onData('5')
+#7 /www/wwwroot/coin.ifti.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php(26): call_user_func(Array, '5')
+#8 [internal function]: PHPSocketIO\Engine\Transports\WebSocket->onData2(Object(Workerman\Connection\TcpConnection), '5')
+#9 /www/wwwroot/coin.ifti.top/public/vendor/webmsgsender/vendor/workerman/workerman/Connection/TcpConnection.php(657): call_user_func(Array, Object(Workerman\Connection\TcpConnection), '5')
+#10 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #34067)
+#11 /www/wwwroot/coin.ifti.top/public/vendor/webmsgsender/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#12 /www/wwwroot/coin.ifti.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(2096): Workerman\Events\Select->loop()
+#13 /www/wwwroot/coin.ifti.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1294): Workerman\Worker->run()
+#14 /www/wwwroot/coin.ifti.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1127): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#15 /www/wwwroot/coin.ifti.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1100): Workerman\Worker::forkWorkersForLinux()
+#16 /www/wwwroot/coin.ifti.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1426): Workerman\Worker::forkWorkers()
+#17 /www/wwwroot/coin.ifti.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1375): Workerman\Worker::monitorWorkersForLinux()
+#18 /www/wwwroot/coin.ifti.top/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#19 /www/wwwroot/coin.ifti.top/public/vendor/webmsgsender/start.php(24): Workerman\Worker::runAll()
+#20 {main}
+2021-04-24 17:37:24 pid:10530 Worker process terminated
+2021-04-24 17:37:24 pid:52397 worker[PHPSocketIO:10530] exit with status 64000
+2021-04-25 08:27:27 pid:5370 Worker process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 4194560 bytes) in /www/wwwroot/coin.ifti.top/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Parser.php on line 238"
+2021-04-25 08:27:27 pid:52397 worker[PHPSocketIO:5370] exit with status 65280
+2021-04-26 08:08:50 pid:52397 Workerman[start.php] stopping ...
+2021-04-26 08:08:50 pid:39305 worker[39305] remains 4 connection(s)
+2021-04-26 08:08:50 pid:39305 worker[39305] remains 2 connection(s)
+2021-04-26 08:08:50 pid:39305 worker[39305] remains 0 connection(s)
+2021-04-26 08:08:51 pid:52397 Workerman[start.php] has been stopped
+2021-04-26 21:37:09 pid:13883 Workerman[start.php] start in DAEMON mode
+2021-04-30 01:30:01 pid:63187 Workerman[start.php] start in DAEMON mode
+2021-04-30 01:30:01 pid:63187 Workerman[start.php] already running
+2021-05-01 22:28:02 pid:13894 Workerman[start.php] stopping ...
+2021-05-01 22:28:02 pid:13894 worker[PHPSocketIO:13895] exit with status 4991
+2021-05-01 22:28:02 pid:13894 Workerman[start.php] has been stopped
+2021-05-03 11:01:27 pid:28368 Workerman[start.php] start in DAEMON mode
+2021-06-05 03:39:28 pid:12040 Workerman[start.php] restart 
+2021-06-05 03:39:28 pid:12040 Workerman[start.php] is stoping ...
+2021-06-05 03:39:28 pid:12040 Workerman[start.php] stop success
+2021-06-07 01:30:01 pid:15834 Workerman[start.php] restart 
+2021-06-07 01:30:01 pid:15834 Workerman[start.php] is stoping ...
+2021-06-07 01:30:01 pid:12040 Workerman[start.php] stopping ...
+2021-06-07 01:30:01 pid:12040 Workerman[start.php] has been stopped
+2021-06-07 01:30:01 pid:15834 Workerman[start.php] stop success
+2021-06-14 01:30:01 pid:12040 Workerman[start.php] restart 
+2021-06-14 01:30:01 pid:12040 Workerman[start.php] is stoping ...
+2021-06-14 01:30:01 pid:15834 Workerman[start.php] stopping ...
+2021-06-14 01:30:01 pid:15834 Workerman[start.php] has been stopped
+2021-06-14 01:30:01 pid:12040 Workerman[start.php] stop success
+2021-07-03 09:57:26 pid:31424 Workerman[start.php] start in DEBUG mode
+2021-07-03 10:02:15 pid:5667 Workerman[start.php] start in DEBUG mode
+2021-07-03 10:02:15 pid:5667 Workerman[start.php] already running
+2021-07-05 01:30:02 pid:5396 Workerman[start.php] start in DEBUG mode
+2021-07-05 01:30:02 pid:5396 Workerman[start.php] already running
+2021-07-06 21:07:49 pid:321409 Workerman[start.php] start in DEBUG mode
+2021-07-12 09:30:01 pid:783918 Workerman[start.php] start in DEBUG mode
+2021-07-12 09:30:01 pid:783918 Workerman[start.php] already running
+2021-07-14 04:10:49 pid:957338 Workerman[start.php] start in DEBUG mode
+2021-07-14 04:12:30 pid:957482 Workerman[start.php] start in DEBUG mode
+2021-07-18 03:53:02 pid:321410 Worker process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 5290784 bytes) in /www/wwwroot/wealth-s.xyz/public/vendor/webmsgsender/vendor/workerman/workerman/Connection/TcpConnection.php on line 369"
+2021-07-18 03:53:02 pid:321409 worker[PHPSocketIO:321410] exit with status 65280
+2021-07-19 09:30:02 pid:1503639 Workerman[start.php] start in DEBUG mode
+2021-07-19 09:30:02 pid:1503639 Workerman[start.php] already running
+2021-07-19 20:24:38 pid:1355267 Worker process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 69632 bytes) in /www/wwwroot/wealth-s.xyz/public/vendor/webmsgsender/vendor/workerman/workerman/Connection/TcpConnection.php on line 596"
+2021-07-19 20:24:38 pid:321409 worker[PHPSocketIO:1355267] exit with status 65280
+2021-07-20 18:51:05 pid:1558843 Error: Call to a member function send() on null in /www/wwwroot/wealth-s.xyz/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php:39
+Stack trace:
+#0 /www/wwwroot/wealth-s.xyz/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(318): PHPSocketIO\Engine\Transports\WebSocket->send(Array)
+#1 /www/wwwroot/wealth-s.xyz/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(79): PHPSocketIO\Engine\Socket->flush()
+#2 [internal function]: PHPSocketIO\Engine\Socket->onUpgradePacket(Array)
+#3 /www/wwwroot/wealth-s.xyz/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Event/Emitter.php(91): call_user_func_array(Array, Array)
+#4 /www/wwwroot/wealth-s.xyz/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(56): PHPSocketIO\Event\Emitter->emit('packet', Array)
+#5 /www/wwwroot/wealth-s.xyz/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(61): PHPSocketIO\Engine\Transport->onPacket(Array)
+#6 [internal function]: PHPSocketIO\Engine\Transport->onData('5')
+#7 /www/wwwroot/wealth-s.xyz/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php(26): call_user_func(Array, '5')
+#8 [internal function]: PHPSocketIO\Engine\Transports\WebSocket->onData2(Object(Workerman\Connection\TcpConnection), '5')
+#9 /www/wwwroot/wealth-s.xyz/public/vendor/webmsgsender/vendor/workerman/workerman/Connection/TcpConnection.php(657): call_user_func(Array, Object(Workerman\Connection\TcpConnection), '5')
+#10 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #492147)
+#11 /www/wwwroot/wealth-s.xyz/public/vendor/webmsgsender/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#12 /www/wwwroot/wealth-s.xyz/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(2096): Workerman\Events\Select->loop()
+#13 /www/wwwroot/wealth-s.xyz/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1294): Workerman\Worker->run()
+#14 /www/wwwroot/wealth-s.xyz/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1127): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#15 /www/wwwroot/wealth-s.xyz/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1100): Workerman\Worker::forkWorkersForLinux()
+#16 /www/wwwroot/wealth-s.xyz/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1426): Workerman\Worker::forkWorkers()
+#17 /www/wwwroot/wealth-s.xyz/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1375): Workerman\Worker::monitorWorkersForLinux()
+#18 /www/wwwroot/wealth-s.xyz/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(461): Workerman\Worker::monitorWorkers()
+#19 /www/wwwroot/wealth-s.xyz/public/vendor/webmsgsender/start.php(24): Workerman\Worker::runAll()
+#20 {main}
+2021-07-20 18:51:05 pid:1558843 Worker process terminated
+2021-07-20 18:51:05 pid:321409 worker[PHPSocketIO:1558843] exit with status 64000
+2021-08-26 01:24:48 pid:12513 Workerman[start.php] restart 
+2021-08-26 01:24:48 pid:12513 Workerman[start.php] is stoping ...
+2021-08-26 01:24:48 pid:12513 Workerman[start.php] stop success
+2021-08-26 01:25:54 pid:12651 Workerman[start.php] restart 
+2021-08-26 01:25:54 pid:12651 Workerman[start.php] is stoping ...
+2021-08-26 01:25:54 pid:12513 Workerman[start.php] stopping ...
+2021-08-26 01:25:54 pid:12513 Workerman[start.php] has been stopped
+2021-08-26 01:25:54 pid:12651 Workerman[start.php] stop success
+2021-08-26 01:26:39 pid:12691 Workerman[start.php] restart 
+2021-08-26 01:26:39 pid:12691 Workerman[start.php] is stoping ...
+2021-08-26 01:26:39 pid:12651 Workerman[start.php] stopping ...
+2021-08-26 01:26:39 pid:12651 Workerman[start.php] has been stopped
+2021-08-26 01:26:39 pid:12691 Workerman[start.php] stop success
+2021-08-26 01:27:35 pid:12691 Workerman[start.php] stopping ...
+2021-08-26 01:27:35 pid:12691 Workerman[start.php] has been stopped
+2021-08-26 01:27:39 pid:12708 Workerman[start.php] stop 
+2021-08-26 01:27:39 pid:12708 Workerman[start.php] not run
+2021-08-26 01:27:51 pid:12717 Workerman[start.php] restart 
+2021-08-26 01:27:51 pid:12717 Workerman[start.php] is stoping ...
+2021-08-26 01:27:51 pid:12717 Workerman[start.php] stop success
+2021-08-26 01:28:43 pid:12791 Workerman[start.php] stop 
+2021-08-26 01:28:43 pid:12791 Workerman[start.php] is stoping ...
+2021-08-26 01:28:43 pid:12717 Workerman[start.php] stopping ...
+2021-08-26 01:28:43 pid:12717 Workerman[start.php] has been stopped
+2021-08-26 01:28:43 pid:12791 Workerman[start.php] stop success
+2021-08-26 01:29:30 pid:12812 Workerman[start.php] restart 
+2021-08-26 01:29:30 pid:12812 Workerman[start.php] is stoping ...
+2021-08-26 01:29:30 pid:12812 Workerman[start.php] stop success
+2021-08-29 17:30:03 pid:25613 Workerman[start.php] restart 
+2021-08-29 17:30:03 pid:25613 Workerman[start.php] is stoping ...
+2021-08-30 01:30:03 pid:12812 Workerman[start.php] stopping ...
+2021-08-30 01:30:04 pid:12812 Workerman[start.php] has been stopped
+2021-08-29 17:30:04 pid:25613 Workerman[start.php] stop success
+2021-09-05 17:30:22 pid:17496 Workerman[start.php] restart 
+2021-09-05 17:30:22 pid:17496 Workerman[start.php] is stoping ...
+2021-09-05 17:30:24 pid:25613 Workerman[start.php] stopping ...
+2021-09-05 17:30:27 pid:17496 Workerman[start.php] stop fail
+2021-09-05 17:30:27 pid:25613 worker[WebServer:25690] exit with status 9
+2021-09-05 17:30:47 pid:25613 worker[PHPSocketIO:25688] exit with status 9
+2021-09-05 17:30:47 pid:25613 Workerman[start.php] has been stopped
+2021-09-06 14:07:39 pid:29520 Workerman[start.php] restart 
+2021-09-06 14:07:39 pid:29520 Workerman[start.php] is stoping ...
+2021-09-06 14:07:39 pid:29520 Workerman[start.php] stop success
+2021-09-10 09:21:30 pid:29523 Error: Call to a member function send() on null in /www/wwwroot/whaleexc.com/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php:39
+Stack trace:
+#0 /www/wwwroot/whaleexc.com/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(318): PHPSocketIO\Engine\Transports\WebSocket->send(Array)
+#1 /www/wwwroot/whaleexc.com/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(79): PHPSocketIO\Engine\Socket->flush()
+#2 [internal function]: PHPSocketIO\Engine\Socket->onUpgradePacket(Array)
+#3 /www/wwwroot/whaleexc.com/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Event/Emitter.php(91): call_user_func_array(Array, Array)
+#4 /www/wwwroot/whaleexc.com/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(56): PHPSocketIO\Event\Emitter->emit('packet', Array)
+#5 /www/wwwroot/whaleexc.com/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(61): PHPSocketIO\Engine\Transport->onPacket(Array)
+#6 [internal function]: PHPSocketIO\Engine\Transport->onData('5')
+#7 /www/wwwroot/whaleexc.com/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php(26): call_user_func(Array, '5')
+#8 [internal function]: PHPSocketIO\Engine\Transports\WebSocket->onData2(Object(Workerman\Connection\TcpConnection), '5')
+#9 /www/wwwroot/whaleexc.com/public/vendor/webmsgsender/vendor/workerman/workerman/Connection/TcpConnection.php(657): call_user_func(Array, Object(Workerman\Connection\TcpConnection), '5')
+#10 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #981)
+#11 /www/wwwroot/whaleexc.com/public/vendor/webmsgsender/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#12 /www/wwwroot/whaleexc.com/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(2096): Workerman\Events\Select->loop()
+#13 /www/wwwroot/whaleexc.com/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1294): Workerman\Worker->run()
+#14 /www/wwwroot/whaleexc.com/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1127): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#15 /www/wwwroot/whaleexc.com/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1100): Workerman\Worker::forkWorkersForLinux()
+#16 /www/wwwroot/whaleexc.com/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#17 /www/wwwroot/whaleexc.com/public/vendor/webmsgsender/start.php(24): Workerman\Worker::runAll()
+#18 {main}
+2021-09-10 09:21:30 pid:29523 Worker process terminated
+2021-09-10 09:22:38 pid:29520 worker[PHPSocketIO:29523] exit with status 64000
+2021-09-11 02:21:51 pid:24190 Workerman[start.php] restart 
+2021-09-11 02:21:51 pid:24190 Workerman[start.php] is stoping ...
+2021-09-11 02:21:51 pid:29520 Workerman[start.php] stopping ...
+2021-09-11 02:21:53 pid:29520 worker[PHPSocketIO:23593] exit with status 9
+2021-09-11 02:21:53 pid:29520 worker[WebServer:29524] exit with status 9
+2021-09-11 02:21:53 pid:29520 Workerman[start.php] has been stopped
+2021-09-11 02:21:53 pid:24190 Workerman[start.php] stop success
+2021-09-11 02:22:54 pid:24193 Worker process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 69632 bytes) in /www/wwwroot/whaleexc.com/public/vendor/webmsgsender/vendor/workerman/workerman/Connection/TcpConnection.php on line 596"
+2021-09-11 02:22:54 pid:24190 worker[PHPSocketIO:24193] exit with status 65280
+2021-09-12 13:21:34 pid:24190 Workerman[start.php] stopping ...
+2021-09-12 13:22:14 pid:24255 worker[24255] remains 8 connection(s)
+2021-09-12 21:37:34 pid:3216 Workerman[start.php] restart 
+2021-09-12 21:37:34 pid:3216 Workerman[start.php] is stoping ...
+2021-09-12 21:37:34 pid:3216 Workerman[start.php] stop success
+2021-09-12 21:45:31 pid:3505 Workerman[start.php] restart 
+2021-09-12 21:45:31 pid:3505 Workerman[start.php] is stoping ...
+2021-09-12 21:45:31 pid:3216 Workerman[start.php] stopping ...
+2021-09-12 21:45:31 pid:3216 Workerman[start.php] has been stopped
+2021-09-12 21:45:31 pid:3505 Workerman[start.php] stop success
+2021-09-13 01:30:04 pid:13811 Workerman[start.php] restart 
+2021-09-13 01:30:04 pid:13811 Workerman[start.php] is stoping ...
+2021-09-13 01:30:04 pid:3505 Workerman[start.php] stopping ...
+2021-09-13 01:30:04 pid:3505 Workerman[start.php] has been stopped
+2021-09-13 01:30:04 pid:13811 Workerman[start.php] stop success
+2021-09-20 01:30:02 pid:14978 Workerman[start.php] restart 
+2021-09-20 01:30:02 pid:14978 Workerman[start.php] is stoping ...
+2021-09-20 01:30:02 pid:13811 Workerman[start.php] stopping ...
+2021-09-20 01:30:04 pid:13811 Workerman[start.php] has been stopped
+2021-09-20 01:30:04 pid:14978 Workerman[start.php] stop success
+2021-09-21 03:27:56 pid:15112 Worker process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 69632 bytes) in /www/wwwroot/whaleexc.com/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php on line 286"
+2021-09-21 03:27:56 pid:14978 worker[PHPSocketIO:15112] exit with status 65280
+2021-09-27 01:30:02 pid:23662 Workerman[start.php] restart 
+2021-09-27 01:30:02 pid:23662 Workerman[start.php] is stoping ...
+2021-09-27 01:30:03 pid:14978 Workerman[start.php] stopping ...
+2021-09-27 01:30:04 pid:14978 Workerman[start.php] has been stopped
+2021-09-27 01:30:04 pid:23662 Workerman[start.php] stop success
+2021-10-02 17:24:58 pid:6847 Workerman[start.php] restart 
+2021-10-02 17:24:58 pid:6847 Workerman[start.php] is stoping ...
+2021-10-02 17:24:58 pid:23662 Workerman[start.php] stopping ...
+2021-10-02 17:24:59 pid:23662 Workerman[start.php] has been stopped
+2021-10-02 17:24:59 pid:6847 Workerman[start.php] stop success
+2021-10-02 17:25:20 pid:6849 Worker process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 69632 bytes) in /www/wwwroot/whaleexc.com/public/vendor/webmsgsender/vendor/workerman/workerman/Connection/TcpConnection.php on line 596"
+2021-10-02 17:25:20 pid:6847 worker[PHPSocketIO:6849] exit with status 65280
+2021-10-04 01:30:03 pid:1711 Workerman[start.php] restart 
+2021-10-04 01:30:03 pid:1711 Workerman[start.php] is stoping ...
+2021-10-04 01:30:03 pid:6847 Workerman[start.php] stopping ...
+2021-10-04 01:30:03 pid:6847 Workerman[start.php] has been stopped
+2021-10-04 01:30:03 pid:1711 Workerman[start.php] stop success
+2021-10-04 01:30:18 pid:1824 Worker process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /www/wwwroot/whaleexc.com/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php on line 275"
+2021-10-04 01:30:18 pid:1711 worker[PHPSocketIO:1824] exit with status 65280
+2021-10-04 01:30:33 pid:1938 Worker process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /www/wwwroot/whaleexc.com/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php on line 275"
+2021-10-04 01:30:33 pid:1711 worker[PHPSocketIO:1938] exit with status 65280
+2021-10-04 01:31:03 pid:1961 Worker process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 266240 bytes) in /www/wwwroot/whaleexc.com/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php on line 286"
+2021-10-04 01:31:03 pid:1711 worker[PHPSocketIO:1961] exit with status 65280
+2021-10-11 01:30:03 pid:12229 Workerman[start.php] restart 
+2021-10-11 01:30:03 pid:12229 Workerman[start.php] is stoping ...
+2021-10-11 01:30:04 pid:1711 Workerman[start.php] stopping ...
+2021-10-11 01:30:05 pid:1711 Workerman[start.php] has been stopped
+2021-10-11 01:30:06 pid:12229 Workerman[start.php] stop success
+2021-10-18 01:30:03 pid:10094 Workerman[start.php] restart 
+2021-10-18 01:30:03 pid:10094 Workerman[start.php] is stoping ...
+2021-10-18 01:30:03 pid:12229 Workerman[start.php] stopping ...
+2021-10-18 01:30:05 pid:12229 worker[WebServer:12368] exit with status 9
+2021-10-18 01:30:05 pid:12229 worker[PHPSocketIO:12367] exit with status 9
+2021-10-18 01:30:05 pid:12229 Workerman[start.php] has been stopped
+2021-10-18 01:30:05 pid:10094 Workerman[start.php] stop success
+2021-10-25 01:30:02 pid:26284 Workerman[start.php] restart 
+2021-10-25 01:30:02 pid:26284 Workerman[start.php] is stoping ...
+2021-10-25 01:30:02 pid:10094 Workerman[start.php] stopping ...
+2021-10-25 01:30:04 pid:10094 Workerman[start.php] has been stopped
+2021-10-25 01:30:04 pid:26284 Workerman[start.php] stop success
+2021-11-01 01:30:03 pid:14199 Workerman[start.php] restart 
+2021-11-01 01:30:03 pid:14199 Workerman[start.php] is stoping ...
+2021-11-01 01:30:04 pid:26284 Workerman[start.php] stopping ...
+2021-11-01 01:30:05 pid:26284 Workerman[start.php] has been stopped
+2021-11-01 01:30:05 pid:14199 Workerman[start.php] stop success
+2021-11-08 01:30:02 pid:10759 Workerman[start.php] restart 
+2021-11-08 01:30:02 pid:10759 Workerman[start.php] is stoping ...
+2021-11-08 01:30:02 pid:14199 Workerman[start.php] stopping ...
+2021-11-08 01:30:05 pid:14199 worker[PHPSocketIO:14305] exit with status 9
+2021-11-08 01:30:05 pid:14199 worker[WebServer:14306] exit with status 9
+2021-11-08 01:30:05 pid:14199 Workerman[start.php] has been stopped
+2021-11-08 01:30:05 pid:10759 Workerman[start.php] stop success
+2021-11-10 23:07:10 pid:25058 Workerman[start.php] restart 
+2021-11-10 23:07:10 pid:25058 Workerman[start.php] is stoping ...
+2021-11-10 23:07:10 pid:10759 Workerman[start.php] stopping ...
+2021-11-10 23:07:10 pid:10759 Workerman[start.php] has been stopped
+2021-11-10 23:07:10 pid:25058 Workerman[start.php] stop success
+2021-11-10 23:14:18 pid:25615 Workerman[start.php] restart 
+2021-11-10 23:14:18 pid:25615 Workerman[start.php] is stoping ...
+2021-11-10 23:14:18 pid:25058 Workerman[start.php] stopping ...
+2021-11-10 23:14:18 pid:25058 Workerman[start.php] has been stopped
+2021-11-10 23:14:18 pid:25615 Workerman[start.php] stop success
+2021-11-10 23:14:26 pid:25630 Workerman[start.php] restart 
+2021-11-10 23:14:26 pid:25630 Workerman[start.php] is stoping ...
+2021-11-10 23:14:26 pid:25615 Workerman[start.php] stopping ...
+2021-11-10 23:14:26 pid:25615 Workerman[start.php] has been stopped
+2021-11-10 23:14:26 pid:25630 Workerman[start.php] stop success
+2021-11-10 23:16:30 pid:25630 Workerman[start.php] stopping ...
+2021-11-10 23:16:33 pid:25634 worker[25634] remains 1 connection(s)
+2021-11-10 23:16:59 pid:25634 worker[25634] remains 0 connection(s)
+2021-11-10 23:16:59 pid:25630 Workerman[start.php] has been stopped
+2021-11-10 23:24:44 pid:3130 Workerman[start.php] restart 
+2021-11-10 23:24:44 pid:3130 Workerman[start.php] is stoping ...
+2021-11-10 23:24:44 pid:3130 Workerman[start.php] stop success
+2021-11-10 23:31:47 pid:3504 Workerman[start.php] restart 
+2021-11-10 23:31:47 pid:3504 Workerman[start.php] is stoping ...
+2021-11-10 23:31:47 pid:3130 Workerman[start.php] stopping ...
+2021-11-10 23:31:47 pid:3130 Workerman[start.php] has been stopped
+2021-11-10 23:31:47 pid:3504 Workerman[start.php] stop success
+2021-11-15 01:30:01 pid:31917 Workerman[start.php] restart 
+2021-11-15 01:30:01 pid:31917 Workerman[start.php] is stoping ...
+2021-11-15 01:30:01 pid:3504 Workerman[start.php] stopping ...
+2021-11-15 01:30:02 pid:3504 Workerman[start.php] has been stopped
+2021-11-15 01:30:02 pid:31917 Workerman[start.php] stop success
+2021-11-22 01:30:02 pid:5659 Workerman[start.php] restart 
+2021-11-22 01:30:02 pid:5659 Workerman[start.php] is stoping ...
+2021-11-22 01:30:03 pid:31917 Workerman[start.php] stopping ...
+2021-11-22 01:30:04 pid:31917 Workerman[start.php] has been stopped
+2021-11-22 01:30:04 pid:5659 Workerman[start.php] stop success
+2021-11-29 01:30:03 pid:25976 Workerman[start.php] restart 
+2021-11-29 01:30:03 pid:25976 Workerman[start.php] is stoping ...
+2021-11-29 01:30:03 pid:5659 Workerman[start.php] stopping ...
+2021-11-29 01:30:04 pid:5659 Workerman[start.php] has been stopped
+2021-11-29 01:30:04 pid:25976 Workerman[start.php] stop success
+2021-12-06 01:30:02 pid:27265 Workerman[start.php] restart 
+2021-12-06 01:30:02 pid:27265 Workerman[start.php] is stoping ...
+2021-12-06 01:30:02 pid:25976 Workerman[start.php] stopping ...
+2021-12-06 01:30:03 pid:25976 Workerman[start.php] has been stopped
+2021-12-06 01:30:03 pid:27265 Workerman[start.php] stop success
+2021-12-13 01:30:03 pid:14554 Workerman[start.php] restart 
+2021-12-13 01:30:03 pid:14554 Workerman[start.php] is stoping ...
+2021-12-13 01:30:03 pid:27265 Workerman[start.php] stopping ...
+2021-12-13 01:30:03 pid:27265 Workerman[start.php] has been stopped
+2021-12-13 01:30:03 pid:14554 Workerman[start.php] stop success
+2021-12-20 01:30:02 pid:26855 Workerman[start.php] restart 
+2021-12-20 01:30:02 pid:26855 Workerman[start.php] is stoping ...
+2021-12-20 01:30:02 pid:14554 Workerman[start.php] stopping ...
+2021-12-20 01:30:03 pid:14554 Workerman[start.php] has been stopped
+2021-12-20 01:30:03 pid:26855 Workerman[start.php] stop success
+2021-12-27 01:30:02 pid:12413 Workerman[start.php] restart 
+2021-12-27 01:30:02 pid:12413 Workerman[start.php] is stoping ...
+2021-12-27 01:30:02 pid:26855 Workerman[start.php] stopping ...
+2021-12-27 01:30:04 pid:26855 worker[PHPSocketIO:26964] exit with status 9
+2021-12-27 01:30:04 pid:26855 worker[WebServer:26965] exit with status 9
+2021-12-27 01:30:04 pid:26855 Workerman[start.php] has been stopped
+2021-12-27 01:30:04 pid:12413 Workerman[start.php] stop success
+2022-01-03 01:30:02 pid:24042 Workerman[start.php] restart 
+2022-01-03 01:30:02 pid:24042 Workerman[start.php] is stoping ...
+2022-01-03 01:30:03 pid:12413 Workerman[start.php] stopping ...
+2022-01-03 01:30:04 pid:12413 Workerman[start.php] has been stopped
+2022-01-03 01:30:04 pid:24042 Workerman[start.php] stop success
+2022-07-09 20:10:53 pid:18403 Workerman[public/vendor/webmsgsender/start.php] restart 
+2022-07-09 20:10:53 pid:18403 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2022-07-09 20:10:53 pid:18403 Workerman[public/vendor/webmsgsender/start.php] stop success
+2022-07-09 20:12:22 pid:20466 Workerman[start.php] start in DAEMON mode
+2022-07-09 20:12:22 pid:20466 Workerman[start.php] already running
+2022-07-09 20:37:21 pid:26440 Workerman[start.php] start in DEBUG mode
+2022-07-09 20:37:21 pid:26440 Workerman[start.php] already running
+2022-07-11 15:46:37 pid:15522 Workerman[start.php] start in DAEMON mode
+2022-07-11 15:46:37 pid:15522 Workerman[start.php] already running
+2022-07-11 15:48:59 pid:16128 Workerman[public/vendor/webmsgsender/start.php] restart 
+2022-07-11 15:48:59 pid:16128 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2022-07-11 15:48:59 pid:18424 Workerman[start.php] stopping ...
+2022-07-11 15:48:59 pid:18424 Workerman[start.php] has been stopped
+2022-07-11 15:48:59 pid:16128 Workerman[public/vendor/webmsgsender/start.php] stop success
+2022-07-11 23:40:53 pid:16953 Workerman[start.php] status 
+2022-07-11 23:41:08 pid:16979 Workerman[start.php] restart 
+2022-07-11 23:41:08 pid:16979 Workerman[start.php] is stoping ...
+2022-07-11 23:41:08 pid:16132 Workerman[start.php] stopping ...
+2022-07-11 23:41:08 pid:16132 Workerman[start.php] has been stopped
+2022-07-11 23:41:08 pid:16979 Workerman[start.php] stop success
+2022-07-11 23:42:07 pid:16979 Workerman[start.php] stopping ...
+2022-07-11 23:42:07 pid:16979 Workerman[start.php] has been stopped
+2022-07-11 23:42:11 pid:17065 Workerman[start.php] restart 
+2022-07-11 23:42:11 pid:17065 Workerman[start.php] is stoping ...
+2022-07-11 23:42:11 pid:17065 Workerman[start.php] stop success
+2022-07-11 23:42:23 pid:17065 Workerman[start.php] stopping ...
+2022-07-11 23:42:23 pid:17065 Workerman[start.php] has been stopped
+2022-07-11 23:43:46 pid:17387 Workerman[start.php] start in DEBUG mode
+2022-07-11 23:44:27 pid:17387 Workerman[start.php] stopping ...
+2022-07-11 23:44:27 pid:17387 Workerman[start.php] has been stopped
+2022-07-11 23:44:31 pid:17442 Workerman[start.php] start in DAEMON mode
+2022-07-11 23:56:43 pid:19470 Workerman[public/vendor/webmsgsender/start.php] restart 
+2022-07-11 23:56:43 pid:19470 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2022-07-11 23:56:43 pid:17445 Workerman[start.php] stopping ...
+2022-07-11 23:56:43 pid:17445 Workerman[start.php] has been stopped
+2022-07-11 23:56:43 pid:19470 Workerman[public/vendor/webmsgsender/start.php] stop success
+2022-07-11 23:59:26 pid:19679 Workerman[public/vendor/webmsgsender/start.php] restart 
+2022-07-11 23:59:26 pid:19679 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2022-07-11 23:59:26 pid:19474 Workerman[start.php] stopping ...
+2022-07-11 23:59:26 pid:19474 Workerman[start.php] has been stopped
+2022-07-11 23:59:26 pid:19679 Workerman[public/vendor/webmsgsender/start.php] stop success
+2022-07-13 22:23:25 pid:15516 Workerman[public/vendor/webmsgsender/start.php] restart 
+2022-07-13 22:23:25 pid:15516 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2022-07-13 22:23:25 pid:19682 Workerman[start.php] stopping ...
+2022-07-13 22:23:25 pid:19682 Workerman[start.php] has been stopped
+2022-07-13 22:23:25 pid:15516 Workerman[public/vendor/webmsgsender/start.php] stop success
+2022-07-13 22:24:07 pid:15590 Workerman[public/vendor/webmsgsender/start.php] restart 
+2022-07-13 22:24:07 pid:15590 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2022-07-13 22:24:07 pid:15520 Workerman[start.php] stopping ...
+2022-07-13 22:24:07 pid:15520 Workerman[start.php] has been stopped
+2022-07-13 22:24:07 pid:15590 Workerman[public/vendor/webmsgsender/start.php] stop success
+2022-07-13 22:29:20 pid:16587 Workerman[public/vendor/webmsgsender/start.php] restart 
+2022-07-13 22:29:20 pid:16587 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2022-07-13 22:29:20 pid:15593 Workerman[start.php] stopping ...
+2022-07-13 22:29:20 pid:15593 Workerman[start.php] has been stopped
+2022-07-13 22:29:20 pid:16587 Workerman[public/vendor/webmsgsender/start.php] stop success
+2022-07-13 22:29:29 pid:16599 Workerman[public/vendor/webmsgsender/start.php] status 
+2022-07-13 22:37:22 pid:17395 Workerman[vendor/webmsgsender/start.php] restart 
+2022-07-13 22:37:22 pid:17395 Workerman[vendor/webmsgsender/start.php] is stoping ...
+2022-07-13 22:37:22 pid:16590 Workerman[start.php] stopping ...
+2022-07-13 22:37:22 pid:16590 Workerman[start.php] has been stopped
+2022-07-13 22:37:22 pid:17395 Workerman[vendor/webmsgsender/start.php] stop success
+2022-07-13 22:37:58 pid:17395 Workerman[start.php] stopping ...
+2022-07-13 22:37:58 pid:17395 Workerman[start.php] has been stopped
+2022-07-13 22:38:09 pid:17450 Workerman[public/vendor/webmsgsender/start.php] restart 
+2022-07-13 22:38:09 pid:17450 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2022-07-13 22:38:09 pid:17450 Workerman[public/vendor/webmsgsender/start.php] stop success
+2022-07-13 22:38:10 pid:17450 Workerman[start.php] stopping ...
+2022-07-13 22:38:10 pid:17450 Workerman[start.php] has been stopped
+2022-07-13 22:40:25 pid:18048 Workerman[public/vendor/webmsgsender/start.php] restart 
+2022-07-13 22:40:25 pid:18048 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2022-07-13 22:40:25 pid:18048 Workerman[public/vendor/webmsgsender/start.php] stop success
+2022-07-13 23:21:20 pid:18052 Error: Call to a member function send() on null in /www/wwwroot/whaleexc.com/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php:39
+Stack trace:
+#0 /www/wwwroot/whaleexc.com/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(318): PHPSocketIO\Engine\Transports\WebSocket->send(Array)
+#1 /www/wwwroot/whaleexc.com/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php(79): PHPSocketIO\Engine\Socket->flush()
+#2 [internal function]: PHPSocketIO\Engine\Socket->onUpgradePacket(Array)
+#3 /www/wwwroot/whaleexc.com/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Event/Emitter.php(91): call_user_func_array(Array, Array)
+#4 /www/wwwroot/whaleexc.com/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(56): PHPSocketIO\Event\Emitter->emit('packet', Array)
+#5 /www/wwwroot/whaleexc.com/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transport.php(61): PHPSocketIO\Engine\Transport->onPacket(Array)
+#6 [internal function]: PHPSocketIO\Engine\Transport->onData('5')
+#7 /www/wwwroot/whaleexc.com/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Transports/WebSocket.php(26): call_user_func(Array, '5')
+#8 [internal function]: PHPSocketIO\Engine\Transports\WebSocket->onData2(Object(Workerman\Connection\TcpConnection), '5')
+#9 /www/wwwroot/whaleexc.com/public/vendor/webmsgsender/vendor/workerman/workerman/Connection/TcpConnection.php(657): call_user_func(Array, Object(Workerman\Connection\TcpConnection), '5')
+#10 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #533)
+#11 /www/wwwroot/whaleexc.com/public/vendor/webmsgsender/vendor/workerman/workerman/Events/Select.php(286): call_user_func_array(Array, Array)
+#12 /www/wwwroot/whaleexc.com/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(2096): Workerman\Events\Select->loop()
+#13 /www/wwwroot/whaleexc.com/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1294): Workerman\Worker->run()
+#14 /www/wwwroot/whaleexc.com/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1127): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#15 /www/wwwroot/whaleexc.com/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(1100): Workerman\Worker::forkWorkersForLinux()
+#16 /www/wwwroot/whaleexc.com/public/vendor/webmsgsender/vendor/workerman/workerman/Worker.php(459): Workerman\Worker::forkWorkers()
+#17 /www/wwwroot/whaleexc.com/public/vendor/webmsgsender/start.php(24): Workerman\Worker::runAll()
+#18 {main}
+2022-07-13 23:21:20 pid:18052 Worker process terminated
+2022-07-13 23:21:20 pid:18051 worker[PHPSocketIO:18052] exit with status 64000
+2022-07-16 18:51:39 pid:55506 Workerman[public/vendor/webmsgsender/start.php] restart 
+2022-07-16 18:51:39 pid:55506 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2022-07-16 18:51:39 pid:55506 Workerman[public/vendor/webmsgsender/start.php] stop success
+2022-07-16 20:51:25 pid:62843 Workerman[public/vendor/webmsgsender/start.php] restart 
+2022-07-16 20:51:25 pid:62843 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2022-07-16 20:51:25 pid:55508 Workerman[start.php] stopping ...
+2022-07-16 20:51:25 pid:55508 Workerman[start.php] has been stopped
+2022-07-16 20:51:25 pid:62843 Workerman[public/vendor/webmsgsender/start.php] stop success
+2022-07-21 13:54:31 pid:31058 Workerman[public/vendor/webmsgsender/start.php] restart 
+2022-07-21 13:54:31 pid:31058 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2022-07-21 13:54:31 pid:31058 Workerman[public/vendor/webmsgsender/start.php] stop success
+2022-07-23 22:40:07 pid:31074 Workerman[start.php] stopping ...
+2022-07-23 22:44:40 pid:4983 Workerman[public/vendor/webmsgsender/start.php] restart 
+2022-07-23 22:44:40 pid:4983 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2022-07-23 22:44:40 pid:4983 Workerman[public/vendor/webmsgsender/start.php] stop success
+2022-07-23 22:47:28 pid:8004 Workerman[start.php] start in DAEMON mode
+2022-07-23 22:47:28 pid:8004 Workerman[start.php] already running
+2022-07-23 22:47:36 pid:8157 Workerman[start.php] status 
+2022-07-23 22:48:07 pid:8710 Workerman[start.php] restart 
+2022-07-23 22:48:07 pid:8710 Workerman[start.php] is stoping ...
+2022-07-23 22:48:07 pid:5000 Workerman[start.php] stopping ...
+2022-07-23 22:48:07 pid:5000 Workerman[start.php] has been stopped
+2022-07-23 22:48:07 pid:8710 Workerman[start.php] stop success
+2022-07-23 22:48:12 pid:8811 Workerman[start.php] restart 
+2022-07-23 22:48:12 pid:8811 Workerman[start.php] is stoping ...
+2022-07-23 22:48:12 pid:8727 Workerman[start.php] stopping ...
+2022-07-23 22:48:12 pid:8727 Workerman[start.php] has been stopped
+2022-07-23 22:48:12 pid:8811 Workerman[start.php] stop success
+2022-07-23 22:48:33 pid:8811 Workerman[start.php] stopping ...
+2022-07-23 22:48:33 pid:8811 Workerman[start.php] has been stopped
+2022-07-23 22:48:38 pid:9278 Workerman[start.php] restart 
+2022-07-23 22:48:38 pid:9278 Workerman[start.php] is stoping ...
+2022-07-23 22:48:38 pid:9278 Workerman[start.php] stop success
+2022-07-23 22:51:40 pid:12430 Workerman[start.php] restart 
+2022-07-23 22:51:40 pid:12430 Workerman[start.php] is stoping ...
+2022-07-23 22:51:40 pid:9307 Workerman[start.php] stopping ...
+2022-07-23 22:51:40 pid:9307 Workerman[start.php] has been stopped
+2022-07-23 22:51:40 pid:12430 Workerman[start.php] stop success
+2022-07-23 22:51:43 pid:12430 Workerman[start.php] stopping ...
+2022-07-23 22:51:43 pid:12430 Workerman[start.php] has been stopped
+2022-07-23 22:53:40 pid:14495 Workerman[start.php] restart 
+2022-07-23 22:53:40 pid:14495 Workerman[start.php] is stoping ...
+2022-07-23 22:53:40 pid:14495 Workerman[start.php] stop success
+2022-07-23 22:54:09 pid:14495 Workerman[start.php] stopping ...
+2022-07-23 22:54:09 pid:14495 Workerman[start.php] has been stopped
+2022-07-23 22:54:13 pid:15039 Workerman[start.php] restart 
+2022-07-23 22:54:13 pid:15039 Workerman[start.php] is stoping ...
+2022-07-23 22:54:13 pid:15039 Workerman[start.php] stop success
+2022-07-23 23:20:08 pid:8802 Workerman[public/vendor/webmsgsender/start.php] restart 
+2022-07-23 23:20:08 pid:8802 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2022-07-23 23:20:08 pid:15056 Workerman[start.php] stopping ...
+2022-07-23 23:20:08 pid:15056 Workerman[start.php] has been stopped
+2022-07-23 23:20:08 pid:8802 Workerman[public/vendor/webmsgsender/start.php] stop success
+2022-07-23 23:21:56 pid:2957 Workerman[public/vendor/webmsgsender/start.php] restart 
+2022-07-23 23:21:56 pid:2957 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2022-07-23 23:21:56 pid:2957 Workerman[public/vendor/webmsgsender/start.php] stop success
+2022-09-20 00:22:55 pid:91403 Workerman[public/vendor/webmsgsender/start.php] restart 
+2022-09-20 00:22:55 pid:91403 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2022-09-20 00:22:55 pid:91403 Workerman[public/vendor/webmsgsender/start.php] stop success
+2022-09-20 00:27:56 pid:95676 Workerman[start.php] start in DAEMON mode
+2022-09-20 00:27:56 pid:95676 Workerman[start.php] already running
+2022-09-20 21:25:23 pid:85975 Workerman[public/vendor/webmsgsender/start.php] restart 
+2022-09-20 21:25:23 pid:85975 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2022-09-20 21:25:23 pid:85975 Workerman[public/vendor/webmsgsender/start.php] stop success
+2022-09-21 00:42:29 pid:8986 Workerman[public/vendor/webmsgsender/start.php] restart 
+2022-09-21 00:42:29 pid:8986 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2022-09-21 00:42:29 pid:8986 Workerman[public/vendor/webmsgsender/start.php] stop success
+2022-09-21 01:04:44 pid:10167 Workerman[public/vendor/webmsgsender/start.php] restart 
+2022-09-21 01:04:44 pid:10167 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2022-09-21 01:04:44 pid:8990 Workerman[start.php] stopping ...
+2022-09-21 01:04:44 pid:8990 Workerman[start.php] has been stopped
+2022-09-21 01:04:44 pid:10167 Workerman[public/vendor/webmsgsender/start.php] stop success
+2022-09-21 14:52:44 pid:10170 Workerman[start.php] stopping ...
+2022-09-21 15:04:59 pid:9077 Workerman[public/vendor/webmsgsender/start.php] restart 
+2022-09-21 15:04:59 pid:9077 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2022-09-21 15:04:59 pid:9077 Workerman[public/vendor/webmsgsender/start.php] stop success
+2022-09-21 15:30:14 pid:9079 Workerman[start.php] stopping ...
+2022-09-21 16:15:42 pid:9418 Workerman[public/vendor/webmsgsender/start.php] restart 
+2022-09-21 16:15:42 pid:9418 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2022-09-21 16:15:42 pid:9418 Workerman[public/vendor/webmsgsender/start.php] stop success
+2022-09-21 17:30:08 pid:9420 Workerman[start.php] stopping ...
+2022-09-21 17:40:46 pid:9017 Workerman[public/vendor/webmsgsender/start.php] restart 
+2022-09-21 17:40:46 pid:9017 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2022-09-21 17:40:46 pid:9017 Workerman[public/vendor/webmsgsender/start.php] stop success
+2022-09-22 16:12:56 pid:9019 Workerman[start.php] stopping ...
+2022-09-22 16:16:32 pid:8957 Workerman[public/vendor/webmsgsender/start.php] restart 
+2022-09-22 16:16:32 pid:8957 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2022-09-22 16:16:32 pid:8957 Workerman[public/vendor/webmsgsender/start.php] stop success
+2022-09-22 18:49:08 pid:10779 Workerman[public/vendor/webmsgsender/start.php] restart 
+2022-09-22 18:49:08 pid:10779 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2022-09-22 18:49:08 pid:8959 Workerman[start.php] stopping ...
+2022-09-22 18:49:08 pid:8959 Workerman[start.php] has been stopped
+2022-09-22 18:49:08 pid:10779 Workerman[public/vendor/webmsgsender/start.php] stop success
+2022-09-22 19:29:09 pid:11114 Workerman[public/vendor/webmsgsender/start.php] restart 
+2022-09-22 19:29:09 pid:11114 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2022-09-22 19:29:09 pid:10781 Workerman[start.php] stopping ...
+2022-09-22 19:29:09 pid:10781 Workerman[start.php] has been stopped
+2022-09-22 19:29:09 pid:11114 Workerman[public/vendor/webmsgsender/start.php] stop success
+2022-09-22 19:47:32 pid:11397 Workerman[public/vendor/webmsgsender/start.php] restart 
+2022-09-22 19:47:32 pid:11397 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2022-09-22 19:47:32 pid:11116 Workerman[start.php] stopping ...
+2022-09-22 19:47:32 pid:11116 Workerman[start.php] has been stopped
+2022-09-22 19:47:32 pid:11397 Workerman[public/vendor/webmsgsender/start.php] stop success
+2022-09-22 20:29:42 pid:11400 Workerman[start.php] stopping ...
+2022-09-22 20:32:24 pid:8841 Workerman[public/vendor/webmsgsender/start.php] restart 
+2022-09-22 20:32:24 pid:8841 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2022-09-22 20:32:24 pid:8841 Workerman[public/vendor/webmsgsender/start.php] stop success
+2022-09-22 22:20:52 pid:8844 Worker process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 69632 bytes) in /www/wwwroot/whaleexc.com/public/vendor/webmsgsender/vendor/workerman/workerman/Connection/TcpConnection.php on line 596"
+2022-09-22 22:20:52 pid:8843 worker[PHPSocketIO:8844] exit with status 65280
+2022-09-22 22:24:24 pid:10871 Worker process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 69632 bytes) in /www/wwwroot/whaleexc.com/public/vendor/webmsgsender/vendor/workerman/workerman/Connection/TcpConnection.php on line 596"
+2022-09-22 22:24:24 pid:8843 worker[PHPSocketIO:10871] exit with status 65280
+2022-09-22 16:12:06 pid:14264 Workerman[public/vendor/webmsgsender/start.php] restart 
+2022-09-22 16:12:06 pid:14264 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2022-09-22 16:12:06 pid:8843 Workerman[start.php] stopping ...
+2022-09-22 16:12:06 pid:8843 Workerman[start.php] has been stopped
+2022-09-22 16:12:06 pid:14264 Workerman[public/vendor/webmsgsender/start.php] stop success
+2022-09-24 13:24:50 pid:30879 Workerman[public/vendor/webmsgsender/start.php] restart 
+2022-09-24 13:24:50 pid:30879 Workerman[public/vendor/webmsgsender/start.php] is stoping ...
+2022-09-24 13:24:50 pid:14269 Workerman[start.php] stopping ...
+2022-09-24 13:24:50 pid:14269 Workerman[start.php] has been stopped
+2022-09-24 13:24:50 pid:30879 Workerman[public/vendor/webmsgsender/start.php] stop success
+2022-09-24 21:37:12 pid:30882 Worker process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 266240 bytes) in /www/wwwroot/whaleexc.com/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php on line 286"
+2022-09-24 21:37:12 pid:30881 worker[PHPSocketIO:30882] exit with status 65280
+2022-09-24 21:47:19 pid:31401 Worker process terminated with ERROR: E_ERROR "Allowed memory size of 134217728 bytes exhausted (tried to allocate 266240 bytes) in /www/wwwroot/whaleexc.com/public/vendor/webmsgsender/vendor/workerman/phpsocket.io/src/Engine/Socket.php on line 286"
+2022-09-24 21:47:19 pid:30881 worker[PHPSocketIO:31401] exit with status 65280
