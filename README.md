@@ -10,8 +10,8 @@
 按照步骤部署一定可以正常跑起来的  
 不懂的可以联系  
 
-[telegram联系](https://t.me/seven566789)  
-[频道直达](https://t.me/qidian898)  
+[telegram联系](https://t.me/seven56678)  
+
 
 ## 简单展示
 ![image](https://github.com/jkjj8899/php-/assets/152266072/dd575a6b-5e34-4a11-808f-427a5c700d00)  
